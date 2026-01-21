@@ -1,0 +1,16 @@
+export const PATH_TO_INPUT_FILE: string = "underground_tapes.md";
+export const PATH_TO_OUTPUT_FILE: string = "index.html";
+export const ROW_SEP: string = " | ";
+export const CSS_CDN: string = "https://cdn.simplecss.org/simple.min.css";
+export const TAG_BR: string = "<br>\n";
+export const TAG_DIV_OPEN: string = "<div>";
+export const TAG_DIV_CLOSE: string = "</div>";
+export const TAG_H_OPEN: string = "<h3>";
+export const TAG_H_CLOSE: string = "</h3>\n";
+export const TAG_TABLE_OPEN: string = "<table>\n<thead>\n<tr>\n<th>Track</th>\n<th>Section</th>\n<th>Band</th>\n<th>Title</th>\n<th>Info</th>\n<th>Listen</th>\n</tr>\n</thead>\n<tbody>\n";
+export const TAG_TABLE_CLOSE: string = "</tbody>\n</table>\n";
+export const TAG_BODY_CLOSE: string = "</tbody>";
+export const TAG_ROW_OPEN: string = "<tr>";
+export const TAG_ROW_CLOSE: string = "</tr>\n";
+export const TAG_CELL_OPEN: string = "<td>";
+export const TAG_CELL_CLOSE: string = "</td>";
