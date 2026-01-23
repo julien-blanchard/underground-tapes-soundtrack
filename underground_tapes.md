@@ -4,12 +4,12 @@
 2. North Coast | Hybrid | ?? | ?? | ??
 3. Cyclone Damon | Massappeal | Indecipherable | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=KR183H7kUhI
 4. The Reef | Cartoon Horrors | Invite Me | ?? | ??
-5. Lanson Ronquilio | ?? | ?? | ?? | ??
+5. Lanson Ronquilio | This Thing | Back in the World | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | ??
 6. Bust The Move | Massappeal | Push the sun down | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=PTB7seVmwls
 7. Various | Massappeal | Push the sun down part II | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=PTB7seVmwls
-8. Mike Stewart | ?? | ?? | ?? | ??
+8. Mike Stewart | Presto | Circus Hell | https://www.discogs.com/release/13086267-Various-Streetwise-An-Urban-Culture-Compilation-2 | https://www.youtube.com/watch?v=Gx2g6OcGZ7g
 9. Dave Ballard | ?? | ?? | ?? | ??
-10. Blackrock | ?? | ?? | ?? | ??
+10. Blackrock | Presto | Doodletwang | ?? | https://www.youtube.com/watch?v=X-1ZIA3AYhg
 11. Eppo | ?? | Something to Say | ?? | ??
 
 ## Underground Tapes III - Reef Madness
@@ -58,7 +58,7 @@
 
 ## Underground Tapes IV - Seek & Destroy
 
-1. Intro | No Comply | Strive | https://www.discogs.com/release/4786821-No-Comply-Buzz | https://www.youtube.com/watch?v=zA_zzaxLhQo
+1. Opening | No Comply | Strive | https://www.discogs.com/release/4786821-No-Comply-Buzz | https://www.youtube.com/watch?v=zA_zzaxLhQo
 2. Indo I | Glass Onion | Splinter | https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep | https://www.youtube.com/watch?v=ljXFu5IyofU
 3. Indo II | Frenzal Rhomb | Richer than you | https://www.discogs.com/master/703577-Frenzal-Rhomb-Dick-Sandwich | https://www.youtube.com/watch?v=tGEcQzdcq-k
 4. Road Kill | Headlifter | Wake | https://www.discogs.com/release/8047256-Headlifter-Hollows | https://www.youtube.com/watch?v=y8OLl8NkeKg
