@@ -15,7 +15,7 @@ Currently, `104` of the `156` total tracks are covered. All of these songs you c
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Intro | This Thing | ?? | ?? | ?? |
+| 1 | Opening | This Thing | ?? | ?? | ?? |
 | 2 | North Coast | Hybrid | ?? | ?? | ?? |
 | 3 | Cyclone Damon | Massappeal | Indecipherable | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=KR183H7kUhI) |
 | 4 | The Reef | Cartoon Horrors | Invite Me | ?? | ?? |
@@ -31,7 +31,7 @@ Currently, `104` of the `156` total tracks are covered. All of these songs you c
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Intro | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | ?? |
+| 1 | Opening | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | ?? |
 | 2 | Wingnut | Massappeal | Never Let Live | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=hLw7ElS2wOk) |
 | 3 | Bust the Move | World War XXIV | Heart Attack | [Discogs](https://www.discogs.com/master/1709080-World-War-XXIV-World-War-XXIV) | [YouTube](https://www.youtube.com/watch?v=LzRS0I61r2s) |
 | 4 | Tamega | Bloodshot | Memories of you | ?? | ?? |
