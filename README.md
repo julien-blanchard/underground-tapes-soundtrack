@@ -46,7 +46,7 @@
 | 9 | Is it Safe? | Pill Popper | I'm Gone | [Discogs](https://www.discogs.com/artist/2864207-Pill-Popper) | [YouTube](https://www.youtube.com/watch?v=AFZf4LVUlT0) |
 | 10 | A Reef Somewhere | The Crusaders | Horn Rimmed Girl | [Discogs](https://www.discogs.com/release/2334667-Various-Tomorrows-Pebbles-Today) | Contact me |
 | 11 | Suicidal Waves / Credits | Kilswitch | Suicidal Waves | [Discogs](https://www.discogs.com/release/4651838-Kilswitch-Freestyle-The-Kilswitch-Demo) | [SoundCloud](https://soundcloud.com/user-134540066/suicidal-waves-by-kilswitch) |
-| 12 | Blackrock | Scream Feeder | Fingers + Toes | [Discogs](https://www.discogs.com/master/129704-Screamfeeder-Burn-Out-Your-Name | [YouTube](https://www.youtube.com/watch?v=jK3z6SoNK5Y) |
+| 12 | Blackrock | Scream Feeder | Fingers + Toes | [Discogs](https://www.discogs.com/master/129704-Screamfeeder-Burn-Out-Your-Name) | [YouTube](https://www.youtube.com/watch?v=jK3z6SoNK5Y) |
 
 ## Underground Tapes V - Ocean Fire
 
@@ -86,7 +86,7 @@
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Opening | The Family | Underground | [Discogs](https://www.discogs.com/release/7147234-The-Family-Bleeding-In) | https://thefamily7.bandcamp.com/track/bleeding-in) |
+| 1 | Opening | The Family | Underground | [Discogs](https://www.discogs.com/release/7147234-The-Family-Bleeding-In) | [Bandcamp](https://thefamily7.bandcamp.com/track/bleeding-in) |
 | 2 | Paul Roach | The Meanies | Eating Roaches | [Discogs](https://www.discogs.com/master/219988-The-Meanies-10-Weird) | [YouTube](https://www.youtube.com/watch?v=iIyKntrdz1E) |
 | 3 | Hardy Boys Home Video | Front End Loader | There is no Cure | [Discogs](https://www.discogs.com/master/785150-Front-End-Loader-Lets-Ride) | [YouTube](https://www.youtube.com/watch?v=DuRN6UIzVjA) |
 | 4 | Hawaii | Suiciety | Shades of Grey | [Discogs](https://www.discogs.com/release/8539668-Suiciety-Deeper-Vision) | [YouTube](https://www.youtube.com/watch?v=L55w030jTto) |
@@ -203,14 +203,14 @@
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
-| 2 | Opening | Ripe | Something Fierce | [Discogs](https://www.discogs.com/master/284605-Ripe-The-Plastic-Hassle | [YouTube](https://www.youtube.com/watch?v=BWwpSPSA3yc |
+| 2 | Opening | Ripe | Something Fierce | [Discogs](https://www.discogs.com/master/284605-Ripe-The-Plastic-Hassle) | [YouTube](https://www.youtube.com/watch?v=BWwpSPSA3yc) |
 | 3 | Eppo | Pryme Moover | Can't wait | ?? | ?? |
-| 4 | Hawaii | Bone Machine | Fallen Idol | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E |
+| 4 | Hawaii | Bone Machine | Fallen Idol | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
 | 5 | Texas | ?? | ?? | ?? | ?? |
-| 6 | Circus Oz | Bone Machine | Raglan Street | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E |
-| 7 | Heavy Water | Universal Workshop | What's so Funny | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls |
+| 6 | Circus Oz | Bone Machine | Raglan Street | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
+| 7 | Heavy Water | Universal Workshop | What's so Funny | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
 | 8 | Bali | Pryme Moover | Get on with it | ?? | ?? |
-| 9 | Amazing Rubber Men | Glass Onion | Strange Ways | [Discogs](https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep | [YouTube](https://www.youtube.com/watch?v=ljXFu5IyofU |
-| 10 | ?? | This Thing | Clenched Hand Explosion | [Discogs](https://www.discogs.com/release/27405990-This-Thing-Upon-Us | Contact me |
+| 9 | Amazing Rubber Men | Glass Onion | Strange Ways | [Discogs](https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep) | [YouTube](https://www.youtube.com/watch?v=ljXFu5IyofU) |
+| 10 | ?? | This Thing | Clenched Hand Explosion | [Discogs](https://www.discogs.com/release/27405990-This-Thing-Upon-Us) | Contact me |
 | 11 | Peer Pressure | Jasperstone | I don't pay | ?? | ?? |
-| 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1 | ?? |
+| 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | ?? |
