@@ -2,9 +2,12 @@
 
 # :surfer: **Underground Tapes** :surfer:
 
-You'll find on this webpage information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
+You'll find on this repository information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-* [About](#about)
+Currently, `104` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube**, **SoundCloud**, or **Bandcamp** for free.
+
+## About this repository
+
 * [FAQ](#faq)
 * [Contribute](#contribute)
 
@@ -224,10 +227,6 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 10 | ?? | This Thing | Clenched Hand Explosion | [Discogs](https://www.discogs.com/release/27405990-This-Thing-Upon-Us) | Contact me |
 | 11 | Peer Pressure | Jasperstone | I don't pay | ?? | ?? |
 | 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | ?? |
-
-## About
-
-Soon.
 
 ## FAQ
 
