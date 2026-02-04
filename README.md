@@ -6,7 +6,8 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 * FAQ
 * Contribute
 
-## Underground Tapes II - Waves from Hell <br/>
+## Underground Tapes II - Waves from Hell  
+
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | This Thing | ?? | ?? | ?? |
