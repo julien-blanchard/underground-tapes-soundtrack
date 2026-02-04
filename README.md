@@ -7,7 +7,6 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 * Contribute
 
 ## Underground Tapes II - Waves from Hell
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | This Thing | ?? | ?? | ?? |
@@ -21,9 +20,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 9 | Dave Ballard | ?? | ?? | ?? | ?? |
 | 10 | Blackrock | Presto | Doodletwang | ?? | [YouTube](https://www.youtube.com/watch?v=X-1ZIA3AYhg) |
 | 11 | Eppo | ?? | Something to Say | ?? | ?? |
-
 ## Underground Tapes III - Reef Madness
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | ?? |
@@ -38,9 +35,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 10 | Take off and die | Massappeal | Is it Safe? | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=twghtHfDYbk) |
 | 11 | Burning Bridges | Bloodshot | Burning Bridges | ?? | ?? |
 | 12 | Credits | Hybrid | Lost in Space | ?? | ?? |
-
 ## Underground Tapes IV - Ballistic
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Ampersand | All Alone | ?? | ?? |
@@ -55,9 +50,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 10 | A Reef Somewhere | The Crusaders | Horn Rimmed Girl | [Discogs](https://www.discogs.com/release/2334667-Various-Tomorrows-Pebbles-Today) | Contact me |
 | 11 | Suicidal Waves / Credits | Kilswitch | Suicidal Waves | [Discogs](https://www.discogs.com/release/4651838-Kilswitch-Freestyle-The-Kilswitch-Demo) | [SoundCloud](https://soundcloud.com/user-134540066/suicidal-waves-by-kilswitch) |
 | 12 | Blackrock | Scream Feeder | Fingers + Toes | [Discogs](https://www.discogs.com/master/129704-Screamfeeder-Burn-Out-Your-Name) | [YouTube](https://www.youtube.com/watch?v=jK3z6SoNK5Y) |
-
 ## Underground Tapes V - Ocean Fire
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Spiderbait | Word I Said | [Discogs](https://www.discogs.com/master/506787-Spiderbait-ShaShaVaGlava) | [YouTube](https://www.youtube.com/watch?v=dIw6go6qouE) |
@@ -71,9 +64,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 9 | Mike Stewart | The Meanies | Inside | [Discogs](https://www.discogs.com/master/305110-The-Meanies-Come-N-See) | [YouTube](https://www.youtube.com/watch?v=Etbws7129v4) |
 | 10 | West Oz | Front End Loader | Furthest Place Away | [Discogs](https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader) | [YouTube](https://www.youtube.com/watch?v=WlLuLH6mr00) |
 | 11 | Hawaii | Universal Workshop | Follow | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
-
 ## Underground Tapes IV - Seek & Destroy
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | No Comply | Strive | [Discogs](https://www.discogs.com/release/4786821-No-Comply-Buzz) | [YouTube](https://www.youtube.com/watch?v=zA_zzaxLhQo) |
@@ -89,9 +80,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 11 | Land of the Lefts | Front End Loader | Can't Stay Long | [Discogs](https://www.discogs.com/release/1438145-Front-End-Loader-Adolescent-Fantasy-World) | [YouTube](https://www.youtube.com/watch?v=_D4sxhDYr1Y) |
 | 12 | Another Island | Seaweed Goorillas | Blood and Bone | [Discogs](https://www.discogs.com/release/5765197-Seaweed-Goorillas-Seaweed-Goorillas) | [YouTube](https://www.youtube.com/watch?v=-ddydcATTDA) |
 | 13 | Credits | No Comply | Strive | [Discogs](https://www.discogs.com/release/4786821-No-Comply-Buzz) | [YouTube](https://www.youtube.com/watch?v=zA_zzaxLhQo) |
-
 ## Underground Tapes VII - Wave Slaves
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | The Family | Underground | [Discogs](https://www.discogs.com/release/7147234-The-Family-Bleeding-In) | [Bandcamp](https://thefamily7.bandcamp.com/track/bleeding-in) |
@@ -107,9 +96,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 11 | Everyone | Magic Dirt | Daddy | [Discogs](https://www.discogs.com/master/606146-Magic-Dirt-Magic-Dirt) | [YouTube](https://www.youtube.com/watch?v=RvoU2uML4nw) |
 | 12 | Credits | Brian Press | Nothing Else Matters | ?? | ?? |
 | 13 | Extra section | Headlifter | Sometimes | ?? | ?? |
-
 ## Underground Tapes VIII - Warped
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Pennywise | Killing Time | [Discogs](https://www.discogs.com/master/44000-Pennywise-About-Time) | [YouTube](https://www.youtube.com/watch?v=-VSIKsWKG3o) |
@@ -124,9 +111,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 10 | The Zone | Downtime | What does it mean? | [Discogs](https://www.discogs.com/master/632956-Downtime-Lose-Yourself) | [YouTube](https://www.youtube.com/watch?v=X-t-qdA9EEw) |
 | 11 | Shark Island | Bodyjar | Gee & Al | [Discogs](https://www.discogs.com/master/384002-Bodyjar-Take-A-Look-Inside) | [YouTube](https://www.youtube.com/watch?v=ELruKoENpj0) |
 | 12 | Credits | The Porkers | California Sun | [Discogs](https://www.discogs.com/release/5200054-The-Porkers-Grunt) | [YouTube](https://www.youtube.com/watch?v=-Tp9UNx9zjs) |
-
 ## Underground Tapes IX - Fuel
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Eppo's dream part I | Storytime | Thor Part I | [Discogs](https://www.discogs.com/release/7302975-Storytime-The-Puzzleman) | [Bandcamp](https://storytime1.bandcamp.com/track/thor) |
@@ -145,9 +130,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 14 | ?? | Mumma Green | Moving Closer | ?? | ?? |
 | 15 | Final Amp | Mid Youth Crisis | That Way | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=AxYASEhHUOI) |
 | 16 | Credits | Suiciety | Once Again | [Discogs](https://www.discogs.com/release/7559362-Suiciety-Cell) | [YouTube](https://www.youtube.com/watch?v=0nBX0vdaktA) |
-
 ## Underground Tapes X - Psychotic
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | Pregnant Men | Number Nine | [Discogs](https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons) | [YouTube](https://www.youtube.com/watch?v=5fkOCwSQbSs) |
@@ -165,9 +148,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 13 | Mini Slabs | Millencolin | Fazil's Friends | [Discogs](https://www.discogs.com/master/44111-Millencolin-Tiny-Tunes) | [YouTube](https://www.youtube.com/watch?v=oOlVbS12SXw) |
 | 14 | Mike VS Kyle | No Fun At All | I have seen | [Discogs](https://www.discogs.com/master/123993-No-Fun-At-All-Out-Of-Bounds) | [YouTube](https://www.youtube.com/watch?v=I7zKhPJ0Tnc) |
 | 15 | Credits | The Porkers | Burnin' Love | [Discogs](https://www.discogs.com/release/3014830-The-Porkers-Not-Bad-Pretty-Good-Not-Bad) | [YouTube](https://www.youtube.com/watch?v=6EvtVbxPbgc) |
-
 ## Underground Tapes XI - Power Trips
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Kurgan | Sometimes | [Discogs](https://www.discogs.com/release/12176070-Kurgan-Bizarre-Lasagna) | [YouTube](https://www.youtube.com/watch?v=wB4k254SDJ0) |
@@ -184,9 +165,7 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 12 | ?? | Eartheater | Thick | ?? | [YouTube](https://www.youtube.com/watch?v=M3_4ci5n4rE) |
 | 13 | ?? | Throwdown SCHC | Keep 'em guessing | [Discogs](https://www.discogs.com/artist/4216220-Throwdown-SCHC) | Contact me |
 | 14 | Credits | ?? | ?? | ?? | ?? |
-
 ## Underground Tapes XII - Happy Hour
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Throwdown SCHC | Free the use | [Discogs](https://www.discogs.com/artist/4216220-Throwdown-SCHC) | Contact me |
@@ -205,17 +184,15 @@ You'll find on this webpage information about the soundtrack for **Chris Stroh**
 | 14 | Face Plant | Front End Loader | Time and Inclination | [Discogs](https://www.discogs.com/master/785151-Front-End-Loader-Last-Of-The-V8-Interceptors) | [YouTube](https://www.youtube.com/watch?v=fiNlSDvMSDw) |
 | 15 | Leftovers | Moulder | Cracked Table | ?? | ?? |
 | 16 | Victoria Falls | ?? | ?? | ?? | ?? |
-
 ## Eppo's Freak Show
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
 | 2 | Opening | Ripe | Something Fierce | [Discogs](https://www.discogs.com/master/284605-Ripe-The-Plastic-Hassle) | [YouTube](https://www.youtube.com/watch?v=BWwpSPSA3yc) |
 | 3 | Eppo | Pryme Moover | Can't wait | ?? | ?? |
-| 4 | Hawaii | Bone Machine | Fallen Idol | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
+| 4 | Hawaii | Bone Machine | Fallen Idol | [Discogs](https://www.discogs.com/artist/7344266-Bone-Machine-8) | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
 | 5 | Texas | ?? | ?? | ?? | ?? |
-| 6 | Circus Oz | Bone Machine | Raglan Street | ?? | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
+| 6 | Circus Oz | Bone Machine | Raglan Street | [Discogs](https://www.discogs.com/artist/7344266-Bone-Machine-8) | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
 | 7 | Heavy Water | Universal Workshop | What's so Funny | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
 | 8 | Bali | Pryme Moover | Get on with it | ?? | ?? |
 | 9 | Amazing Rubber Men | Glass Onion | Strange Ways | [Discogs](https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep) | [YouTube](https://www.youtube.com/watch?v=ljXFu5IyofU) |
