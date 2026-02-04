@@ -1,6 +1,6 @@
 ![Project status](https://img.shields.io/badge/version-1.0-green)
 
-# :surfer: **Underground Tapes** :surfer:
+# :surfer: :cd: **Underground Tapes** :surfer: :cd:
 
 You'll find on this repository information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
@@ -230,17 +230,17 @@ Currently, `104` of the `156` total tracks are covered. All of these songs you c
 
 ## FAQ
 
-* *Why did you create this webpage? Surely you must be looking for money or something*: Just like you, I grew up watching these videos over and over again. The Discogs and YouTube / Bandcamp / SoundCloud links do not contain any affiliate id or anything of the sort.
+* *Why did you create this webpage? Surely you must be looking for money or something* - Just like you, I grew up watching these videos over and over again. The Discogs and YouTube / Bandcamp / SoundCloud links do not contain any affiliate id or anything of the sort.
 
-* *This webpage looks dodgy. Why should I trust you?*: By all means, you should never trust anybody on the internet. This is why I have made the source code for this website public. You can find it directly on this GitHub repository.
+* *This webpage looks dodgy. Why should I trust you?* - By all means, you should never trust anybody on the internet. This is why I have made the source code for this website public. You can find it directly on this GitHub repository.
 
-* *This must be illegal*: All that this webpage does is link to a bunch of YouTube videos. Now whether these videos are being legally hosted on YouTube or not, I cannot tell.
+* *This must be illegal* - All that this webpage does is link to a bunch of YouTube videos. Now whether these videos are being legally hosted on YouTube or not, I cannot tell.
 
-* *How can I save the YouTube or BandCamp songs as mp3 files?*: Message me 🙂.
+* *How can I save the YouTube or BandCamp songs as mp3 files?* - Message me 🙂.
 
-* *Is this AI generated?*: Nope, I wrote all the code / content for this webpage myself.
+* *Is this AI generated?* - Nope, I wrote all the code / content for this webpage myself.
 
-* *This is one of the ugliest webpages that I have ever seen!*: Thanks!
+* *This is one of the ugliest webpages that I have ever seen!* - Thanks!
 
 ## Contribute
 
