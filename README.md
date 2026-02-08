@@ -2,7 +2,7 @@
 
 # :surfer: :cd: **Underground Tapes** :surfer: :cd:
 
-You'll find on this repository information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
+You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
 Currently, `104` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube**, **SoundCloud**, or **Bandcamp** for free.
 
