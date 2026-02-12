@@ -1,10 +1,10 @@
 ## Underground Tapes II - Waves from Hell
 
-1. Intro | This Thing | ?? | ?? | ??
+1. Opening | This Thing | ?? | ?? | ??
 2. North Coast | Hybrid | ?? | ?? | ??
 3. Cyclone Damon | Massappeal | Indecipherable | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=KR183H7kUhI
 4. The Reef | Cartoon Horrors | Invite Me | ?? | ??
-5. Lanson Ronquilio | This Thing | Back in the World | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | ??
+5. Lanson Ronquilio | This Thing | Back in the World | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | Contact me
 6. Bust The Move | Massappeal | Push the sun down | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=PTB7seVmwls
 7. Various | Massappeal | Push the sun down part II | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=PTB7seVmwls
 8. Mike Stewart | Presto | Circus Hell | https://www.discogs.com/release/13086267-Various-Streetwise-An-Urban-Culture-Compilation-2 | https://www.youtube.com/watch?v=Gx2g6OcGZ7g
@@ -14,7 +14,7 @@
 
 ## Underground Tapes III - Reef Madness
 
-1. Intro | Presto | Wish | https://www.discogs.com/release/25312516-Presto-Walk-Around-It | ??
+1. Opening | Presto | Wish | https://www.discogs.com/release/25312516-Presto-Walk-Around-It | ??
 2. Wingnut | Massappeal | Never Let Live | https://www.discogs.com/master/290440-Massappeal-The-Mechanic | https://www.youtube.com/watch?v=hLw7ElS2wOk
 3. Bust the Move | World War XXIV | Heart Attack | https://www.discogs.com/master/1709080-World-War-XXIV-World-War-XXIV | https://www.youtube.com/watch?v=LzRS0I61r2s
 4. Tamega | Bloodshot | Memories of you | ?? | ??
@@ -50,7 +50,7 @@
 4. Tully & Banno | Front End Loader | Puppy Love | https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader | https://www.youtube.com/watch?v=JuhUrAiNUmQ
 5. Drill | Jasperstone | Don't want you around | ?? | ??
 6. Da Boys | Spiderbait | Ol' Man Sam | https://www.discogs.com/master/506787-Spiderbait-ShaShaVaGlava | https://www.youtube.com/watch?v=S36WqyY17Qg
-7. Soul | This Thing | From the Heart | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | ??
+7. Soul | This Thing | From the Heart | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | Contact me
 8. Northside Crew | Universal Workshop | Blind | ?? | https://www.youtube.com/watch?v=n3SD8pDxqls
 9. Mike Stewart | The Meanies | Inside | https://www.discogs.com/master/305110-The-Meanies-Come-N-See | https://www.youtube.com/watch?v=Etbws7129v4
 10. West Oz | Front End Loader | Furthest Place Away | https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader | https://www.youtube.com/watch?v=WlLuLH6mr00
@@ -187,6 +187,20 @@
 7. Heavy Water | Universal Workshop | What's so Funny | ?? | https://www.youtube.com/watch?v=n3SD8pDxqls
 8. Bali | Pryme Moover | Get on with it | ?? | ??
 9. Amazing Rubber Men | Glass Onion | Strange Ways | https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep | https://www.youtube.com/watch?v=ljXFu5IyofU
-10. ?? | ?? | ?? | ?? | ??
+10. ?? | This Thing | Clenched Hand Explosion | https://www.discogs.com/release/27405990-This-Thing-Upon-Us | Contact me
 11. Peer Pressure | Jasperstone | I don't pay | ?? | ??
 12. Credits | Pryme Moover | Happy Ending | https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1 | ??
+
+## Inner Views
+
+1. Intro | ?? | ?? | ?? | ??
+2. Shafting / North Shore | Mumma Green | Barry | ?? | ??
+3. Eppo | Pregant Men | Not Me | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=WfCvRTrolfU
+4. The Maldives | This Thing | No More Storms | https://www.discogs.com/artist/5326618-This-Thing | ??
+5. Personalities | Mumma Green | Butt | ?? | ??
+6. ?? | Third Stone | ?? | ?? | ??
+7. Blacky's Home Video | Suiciety | T.C.P. | https://www.discogs.com/release/3866708-Suiciety-Primrose-Path | https://www.youtube.com/watch?v=9YNLquYhQAU
+8. ?? | Pregnant Men | Party of the Year | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=0aNmpgz--4U
+9. Nugget | Toe to Toe | Something to Believe | https://www.discogs.com/master/497529-Toe-To-Toe-Threats-Facts | https://www.youtube.com/watch?v=qyI3AXc7CSI
+10. Reunion Island | Pregnant Men | Insecurity | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=Dxu2WevV2u0
+11. Credits | ?? | ?? | ?? | ??
