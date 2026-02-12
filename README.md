@@ -1,6 +1,6 @@
 ![Project status](https://img.shields.io/badge/version-1.0-green)
 
-# :surfer: :cd: **Underground Tapes** :surfer: :cd:
+# :surfer: :cd: **Soundtracks for the Underground Tapes bodyboarding videos** :surfer: :cd:
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
