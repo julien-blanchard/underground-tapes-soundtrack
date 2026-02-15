@@ -56,7 +56,7 @@
 10. West Oz | Front End Loader | Furthest Place Away | https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader | https://www.youtube.com/watch?v=WlLuLH6mr00
 11. Hawaii | Universal Workshop | Follow | ?? | https://www.youtube.com/watch?v=n3SD8pDxqls
 
-## Underground Tapes IV - Seek & Destroy
+## Underground Tapes VI - Seek & Destroy
 
 1. Opening | No Comply | Strive | https://www.discogs.com/release/4786821-No-Comply-Buzz | https://www.youtube.com/watch?v=zA_zzaxLhQo
 2. Indo I | Glass Onion | Splinter | https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep | https://www.youtube.com/watch?v=ljXFu5IyofU
@@ -204,3 +204,4 @@
 9. Nugget | Toe to Toe | Something to Believe | https://www.discogs.com/master/497529-Toe-To-Toe-Threats-Facts | https://www.youtube.com/watch?v=qyI3AXc7CSI
 10. Reunion Island | Pregnant Men | Insecurity | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=Dxu2WevV2u0
 11. Credits | ?? | ?? | ?? | ??
+
