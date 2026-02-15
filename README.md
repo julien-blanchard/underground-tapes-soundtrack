@@ -77,7 +77,7 @@ Currently, `104` of the `156` total tracks are covered. All of these songs you c
 | 10 | West Oz | Front End Loader | Furthest Place Away | [Discogs](https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader) | [YouTube](https://www.youtube.com/watch?v=WlLuLH6mr00) |
 | 11 | Hawaii | Universal Workshop | Follow | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
 
-## Underground Tapes IV - Seek & Destroy
+## Underground Tapes VI - Seek & Destroy
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
