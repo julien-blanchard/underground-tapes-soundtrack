@@ -6,6 +6,8 @@ You'll find here information about the soundtrack for **Chris Stroh**'s *Undergr
 
 Currently, `104` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube**, **SoundCloud**, or **Bandcamp** for free.
 
+Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
+
 ## About this repository
 
 * [FAQ](#faq)
