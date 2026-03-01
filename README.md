@@ -4,7 +4,7 @@
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-Currently, `104` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube**, **SoundCloud**, or **Bandcamp** for free.
+Currently, `105` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube**, **SoundCloud**, or **Bandcamp** for free.
 
 Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
 
@@ -106,14 +106,14 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | 3 | Hardy Boys Home Video | Front End Loader | There is no Cure | [Discogs](https://www.discogs.com/master/785150-Front-End-Loader-Lets-Ride) | [YouTube](https://www.youtube.com/watch?v=DuRN6UIzVjA) |
 | 4 | Hawaii | Suiciety | Shades of Grey | [Discogs](https://www.discogs.com/release/8539668-Suiciety-Deeper-Vision) | [YouTube](https://www.youtube.com/watch?v=L55w030jTto) |
 | 5 | Wingnut cam in Japan | Gilgamesh | Happy Family | [Discogs](https://www.discogs.com/release/9031800-Gilgamesh-Land-Of-The-Long-White-Shaft) | ?? |
-| 6 | Australia | Headlifter | Untitled | [Discogs](https://www.discogs.com/release/14583981-Headlifter-Non-Compos) | Contact me |
+| 6 | Australia | Headlifter | 3 45 Untitled | [Discogs](https://www.discogs.com/release/14583981-Headlifter-Non-Compos) | Contact me |
 | 7 | Australia part II | Bodyjar | 2 Many Times | [Discogs](https://www.discogs.com/master/384002-Bodyjar-Take-A-Look-Inside) | [YouTube](https://www.youtube.com/watch?v=EnpTNe0AuLA) |
 | 8 | Hawaii part II | Front End Loader | The BeJesus | [Discogs](https://www.discogs.com/master/785150-Front-End-Loader-Lets-Ride) | [YouTube](https://www.youtube.com/watch?v=OycpSBKNKkA) |
 | 9 | Ronk, Wiseguy and Benny | Wigwam | Keeper of the Cheese | ?? | ?? |
 | 10 | Australia part III | Gilgamesh | Nothing | [Discogs](https://www.discogs.com/release/9031800-Gilgamesh-Land-Of-The-Long-White-Shaft) | ?? |
 | 11 | Everyone | Magic Dirt | Daddy | [Discogs](https://www.discogs.com/master/606146-Magic-Dirt-Magic-Dirt) | [YouTube](https://www.youtube.com/watch?v=RvoU2uML4nw) |
 | 12 | Credits | Brian Press | Nothing Else Matters | ?? | ?? |
-| 13 | Extra section | Headlifter | Sometimes | ?? | ?? |
+| 13 | Extra section | Headlifter | Sometimes | ?? | Contact me |
 
 ## Underground Tapes VIII - Warped
 
