@@ -10,7 +10,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 
 ## Updates
 
-* *2026-03-02: added Gilgamesh - Nothin, Gilgamesh - Happy Family, Yawp! - Not Anymore.*
+* *2026-03-02: added Gilgamesh - Nothin', Gilgamesh - Happy Family, Yawp! - Not Anymore.*
 * *2026-02-28: added Headlifter - Sometimes.*
 
 ## About this repository
