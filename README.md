@@ -4,9 +4,12 @@
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-Currently, `116` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** for free.
+Currently, `116` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
 
 Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
+
+* *2026-03-02: added Gilgamesh - Nothin, Gilgamesh - Happy Family, Yawp! - Not Anymore.*
+* *2026-02-28: added Headlifter - Sometimes.*
 
 ## About this repository
 
