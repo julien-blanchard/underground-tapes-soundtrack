@@ -8,6 +8,8 @@ Currently, `116` of the `156` total tracks are covered. All of these songs you c
 
 Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
 
+## Updates
+
 * *2026-03-02: added Gilgamesh - Nothin, Gilgamesh - Happy Family, Yawp! - Not Anymore.*
 * *2026-02-28: added Headlifter - Sometimes.*
 
