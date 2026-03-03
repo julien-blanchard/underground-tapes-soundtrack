@@ -31,9 +31,9 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | 6 | Bust The Move | Massappeal | Push the sun down | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=PTB7seVmwls) |
 | 7 | Various | Massappeal | Push the sun down part II | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=PTB7seVmwls) |
 | 8 | Mike Stewart | Presto | Circus Hell | [Discogs](https://www.discogs.com/release/13086267-Various-Streetwise-An-Urban-Culture-Compilation-2) | [YouTube](https://www.youtube.com/watch?v=Gx2g6OcGZ7g) |
-| 9 | Dave Ballard | ?? | ?? | ?? | ?? |
+| 9 | Dave Ballard | This Thing | ?? | ?? | ?? |
 | 10 | Blackrock | Presto | Doodletwang | ?? | [YouTube](https://www.youtube.com/watch?v=X-1ZIA3AYhg) |
-| 11 | Eppo | ?? | Something to Say | ?? | ?? |
+| 11 | Eppo | Cartoon Horrors | Something to Say | ?? | ?? |
 
 ## Underground Tapes III - Reef Madness
 
