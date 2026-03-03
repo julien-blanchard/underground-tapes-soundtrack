@@ -4,12 +4,13 @@
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-Currently, `116` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
+Currently, `117` of the `156` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
 
 Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
 
 ## Updates
 
+* *2026-03-03: added Beastie Boys - Pow.*
 * *2026-03-02: added Gilgamesh - Nothin', Gilgamesh - Happy Family, Yawp! - Not Anymore.*
 * *2026-02-28: added Headlifter - Sometimes.*
 
@@ -205,7 +206,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | 2 | Western Australia | Paw | No Such Luck | [Discogs](https://www.discogs.com/master/200226-Paw-Death-To-Traitors) | [YouTube](https://www.youtube.com/watch?v=_FIjKJEkWTo) |
 | 3 | ?? | Frenzal Rhomb | Ship of Beers | [Discogs](https://www.discogs.com/master/325195-Frenzal-Rhomb-Meet-The-Family) | [YouTube](https://www.youtube.com/watch?v=9nQ4Pt-sV0U) |
 | 4 | North Shore | Grinspoon | Champion | [Discogs](https://www.discogs.com/master/144686-Grinspoon-Guide-To-Better-Living) | [YouTube](https://www.youtube.com/watch?v=nvXiAgK79bs) |
-| 5 | ?? | ?? | ?? | ?? | ?? |
+| 5 | ?? | Beastie Boys | Pow | [Discogs](https://www.discogs.com/master/20145-Beastie-Boys-Check-Your-Head) | [YouTube](https://www.youtube.com/watch?v=GUZh0f5dcug) |
 | 6 | Toby Player | Kurgan | Capacity to Feel | [Discogs](https://www.discogs.com/release/12176070-Kurgan-Bizarre-Lasagna) | [YouTube](https://www.youtube.com/watch?v=LfrNyOsXPzM) |
 | 7 | ?? | Millencolin | Einstein Crew | [Discogs](https://www.discogs.com/master/44111-Millencolin-Tiny-Tunes) | [YouTube](https://www.youtube.com/watch?v=G9Xz_rJ7wnY) |
 | 8 | New Zealand | ?? | ?? | ?? | ?? |
