@@ -192,7 +192,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | 7 | Young Ozzies | Mother Jones | Don't need a reason | ?? | [YouTube](https://www.youtube.com/watch?v=M3_4ci5n4rE) |
 | 8 | ?? | Pennydredful | Lentils | ?? | [YouTube](https://www.youtube.com/watch?v=M3_4ci5n4rE) |
 | 9 | ?? | No Fun At All | Nothing Personal | [Discogs](https://www.discogs.com/master/123993-No-Fun-At-All-Out-Of-Bounds) | [YouTube](https://www.youtube.com/watch?v=vArCB_lyXpc) |
-| 10 | Tube Chronics | ?? | ?? | ?? | ?? |
+| 10 | Tube Chronics | The Trammps | Disco Inferno | [Discogs](https://www.discogs.com/master/91371-The-Trammps-Disco-Inferno) | [YouTube](https://www.youtube.com/watch?v=pG8TyIEAqps) |
 | 11 | ?? | Turtlehead | Voices | [Discogs](https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men) | [YouTube](https://www.youtube.com/watch?v=qh_cQegrmig) |
 | 12 | ?? | Eartheater | Thick | ?? | [YouTube](https://www.youtube.com/watch?v=M3_4ci5n4rE) |
 | 13 | ?? | Throwdown SCHC | Keep 'em guessing | [Discogs](https://www.discogs.com/artist/4216220-Throwdown-SCHC) | Contact me |
