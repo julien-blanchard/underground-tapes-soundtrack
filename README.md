@@ -4,13 +4,13 @@
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-Currently, `117` of the `147` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
+Currently, `118` of the `147` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
 
 Thanks to Brent White, you can find a playlist for all the **YouTube** songs [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
 
 ## Updates
 
-* *2026-03-03: added Beastie Boys - Pow.*
+* *2026-03-03: added Beastie Boys - Pow, Sedona - Coast - Rhythm Electronica Mix.*
 * *2026-03-02: added Gilgamesh - Nothin', Gilgamesh - Happy Family, Yawp! - Not Anymore.*
 * *2026-02-28: added Headlifter - Sometimes.*
 
@@ -186,7 +186,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | 1 | Opening | Kurgan | Sometimes | [Discogs](https://www.discogs.com/release/12176070-Kurgan-Bizarre-Lasagna) | [YouTube](https://www.youtube.com/watch?v=wB4k254SDJ0) |
 | 2 | Shark Island Story I | Grinspoon | Post Enebriated Anxiety | [Discogs](https://www.discogs.com/master/144686-Grinspoon-Guide-To-Better-Living) | [YouTube](https://www.youtube.com/watch?v=NHytA8_zpds) |
 | 3 | Shark Island Story II | Lagwagon | Wind in your Sail | [Discogs](https://www.discogs.com/master/142199-Lagwagon-Lets-Talk-About-Leftovers) | [YouTube](https://www.youtube.com/watch?v=0zEfN4jb0l4) |
-| 4 | Shark Island Story III | ?? | ?? | ?? | ?? |
+| 4 | Shark Island Story III | Sedona | Coast - Rhythm Electronica Mix | [Discogs](https://www.discogs.com/master/501806-Sedona-Coast) | [YouTube](https://www.youtube.com/watch?v=rCFrBjQ3oGg) |
 | 5 | Shark Island Story IV | Turtlehead | Home | [Discogs](https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men) | [YouTube](https://www.youtube.com/watch?v=IFPX6aSzTh0) |
 | 6 | Hawaiian Amp '97 | Ten Foot Pole | Gnarly Charlie | [Discogs](https://www.discogs.com/master/1196164-Ten-Foot-Pole-Satanic-Surfers-Ten-Foot-Pole-Satanic-Surfers-Split) | [YouTube](https://www.youtube.com/watch?v=kh6Oi3Lzc04) |
 | 7 | Young Ozzies | Mother Jones | Don't need a reason | ?? | [YouTube](https://www.youtube.com/watch?v=M3_4ci5n4rE) |
