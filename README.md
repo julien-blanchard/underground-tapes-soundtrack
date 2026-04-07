@@ -39,7 +39,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Opening | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | [YouTube](https://www.youtube.com/watch?v=XlDr5Ws5pUg) (low quality) |
+| 1 | Opening | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | ?? |
 | 2 | Wingnut | Massappeal | Never Let Live | [Discogs](https://www.discogs.com/master/290440-Massappeal-The-Mechanic) | [YouTube](https://www.youtube.com/watch?v=hLw7ElS2wOk) |
 | 3 | Bust the Move | World War XXIV | Heart Attack | [Discogs](https://www.discogs.com/master/1709080-World-War-XXIV-World-War-XXIV) | [YouTube](https://www.youtube.com/watch?v=LzRS0I61r2s) |
 | 4 | Tamega | Bloodshot | Memories of you | ?? | ?? |
