@@ -58,7 +58,7 @@ Thanks to Brent White, you can find a playlist for all the **YouTube** songs [he
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Ampersand | All Alone | ?? | ?? |
 | 2 | At Home with Eppo | Screaming Tribesmen | Always be there | [Discogs](https://www.discogs.com/master/383557-The-Screaming-Tribesmen-Formaldehyde) | [YouTube](https://www.youtube.com/watch?v=X9x1Hgyv6S0) |
-| 3 | Cane Toad Dreaming | Pill Popper | ?? | [Discogs](https://www.discogs.com/artist/2864207-Pill-Popper) | ?? |
+| 3 | Cane Toad Dreaming | Pill Popper | 44 Meg | [Discogs](https://www.discogs.com/artist/2864207-Pill-Popper) | ?? |
 | 4 | Matt Percy | Front End Loader | Bad Blood | [Discogs](https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader) | [YouTube](https://www.youtube.com/watch?v=CKgsResUgK0) |
 | 5 | Macca & Ben | The Crusaders | Silver Sands | [Discogs](https://www.discogs.com/artist/1260079-The-Crusaders-3) | [YouTube](https://www.youtube.com/watch?v=5uQcyiuv3eU) |
 | 6 | Further up the Road | Kilswitch | No Orders | [Discogs](https://www.discogs.com/release/4651838-Kilswitch-Freestyle-The-Kilswitch-Demo) | [SoundCloud](https://soundcloud.com/user-134540066/no-orders-by-kilswitch) |
