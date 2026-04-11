@@ -8,7 +8,7 @@ Currently, `123` of the `155` total tracks are covered. Most of these songs you 
 
 Thanks to:
 
-* Brent White for his **YouTube** playlist [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
+* Brent W. for his **YouTube** playlist [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
 * Chris R.H. for his help with the Headlifter tracks.
 * Julien S. for his help with the Mumma Green tracks.
 
