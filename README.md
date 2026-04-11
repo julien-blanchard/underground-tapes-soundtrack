@@ -4,7 +4,7 @@
 
 You'll find here information about the soundtrack for **Chris Stroh**'s *Underground Tapes* bodyboarding videos.
 
-Currently, `120` of the `155` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
+Currently, `123` of the `155` total tracks are covered. All of these songs you can listen to on **YouTube** (102), **SoundCloud** (2), or **Bandcamp** (7) for free.
 
 Thanks to:
 
