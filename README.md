@@ -9,8 +9,8 @@ Currently, `120` of the `155` total tracks are covered. All of these songs you c
 Thanks to:
 
 * Brent White for his **YouTube** playlist [here](https://www.youtube.com/playlist?list=PLXJuuO0CEUpw869L3ks3LXCY5BdfddW0N).
-* Chris Roy Horgan for his help with the Headlifter tracks.
-* Julien Solères for his help with the Mumma Green tracks.
+* Chris R.H. for his help with the Headlifter tracks.
+* Julien S. for his help with the Mumma Green tracks.
 
 ## Updates
 
@@ -177,7 +177,7 @@ Thanks to:
 | 8 | Drop-knee | Mid Youth Crisis | Down Syndrome | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=YRWAkHxDqAc) |
 | 9 | East Coast | Millencolin | Shake me | [Discogs](https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection) | [YouTube](https://www.youtube.com/watch?v=ylvBCCow4Mc) |
 | 10 | GOB invades Portugal | No Fun At All | Talking to remind me | [Discogs](https://www.discogs.com/master/123993-No-Fun-At-All-Out-Of-Bounds) | [YouTube](https://www.youtube.com/watch?v=LaDFNp7pZzg) |
-| 11 | Wingnut | ?? | ?? | ?? | ?? |
+| 11 | Wingnut | ?? | ?? | ?? | Contact me |
 | 12 | Launching pads | Apartment 3G | Tex Ritter | [Discogs](https://www.discogs.com/master/479093-Apartment-3G-Double-Whoosher) | [YouTube](https://www.youtube.com/watch?v=8-6qGt72Po0) |
 | 13 | Mini Slabs | Millencolin | Fazil's Friends | [Discogs](https://www.discogs.com/master/44111-Millencolin-Tiny-Tunes) | [YouTube](https://www.youtube.com/watch?v=oOlVbS12SXw) |
 | 14 | Mike VS Kyle | No Fun At All | I have seen | [Discogs](https://www.discogs.com/master/123993-No-Fun-At-All-Out-Of-Bounds) | [YouTube](https://www.youtube.com/watch?v=I7zKhPJ0Tnc) |
