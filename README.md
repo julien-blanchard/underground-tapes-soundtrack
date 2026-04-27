@@ -152,16 +152,16 @@ Thanks to:
 | 3 | Intro | ?? | ?? | ?? | ?? |
 | 4 | Starring the North Shore | Grinspoon | Sickfest | [Discogs](https://www.discogs.com/master/144686-Grinspoon-Guide-To-Better-Living) | [YouTube](https://www.youtube.com/watch?v=g5kwi94mhto) |
 | 5 | Pipeline | Storytime | One Freeway Afternoon | [Discogs](https://www.discogs.com/release/5824158-Storytime-Crystal-Journeys) | [Bandcamp](https://storytime1.bandcamp.com/track/one-freeway-afternoon) |
-| 6 | ?? | Mid Youth Crisis | Concept | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=ISHjuwSw8aI) |
+| 6 | ?? | One Inch Punch | Concept | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=ISHjuwSw8aI) |
 | 7 | Killer Swell | Parkside Killers | Pain | [Discogs](https://www.discogs.com/release/10539894-Parkside-Killers-Pain) | [YouTube](https://www.youtube.com/watch?v=MHgOj3ylp8o) |
 | 8 | The Contest | Mumma Green | A Cure | ?? | Contact me |
 | 9 | Pipeline Masters | Incursion | Offcut | [Discogs](https://www.discogs.com/release/10304520-Incursion-In-The-Black-Sand-Shoe) | [YouTube](https://www.youtube.com/watch?v=su0YptDJ5_8) |
 | 10 | Kainoa McGee | Storytime | Thor part II | [Discogs](https://www.discogs.com/release/7302975-Storytime-The-Puzzleman) | [Bandcamp](https://storytime1.bandcamp.com/track/thor) |
 | 11 | ?? | Fireballs | Don't Bother Me | [Discogs](https://www.discogs.com/master/246294-Fireballs-Life-Takes-Too-Long) | [YouTube](https://www.youtube.com/watch?v=mR9eV2_XHH0) |
-| 12 | Young Ozzies | Mid Youth Crisis | Youthful Expression | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=WfLZAI0bPDY) |
+| 12 | Young Ozzies | One Inch Punch | Youthful Expression | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=WfLZAI0bPDY) |
 | 13 | Hawaiians | Grinspoon | More Than you Are | [Discogs](https://www.discogs.com/master/1138194-Grinspoon-Grinspoon) | [YouTube](https://www.youtube.com/watch?v=OuxW08YFz8Y) |
 | 14 | ?? | Mumma Green | Moving Closer | ?? | Contact me |
-| 15 | Final Amp | Mid Youth Crisis | That Way | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=AxYASEhHUOI) |
+| 15 | Final Amp | One Inch Punch | That Way | [Discogs](https://www.discogs.com/release/2087469-Mid-Youth-Crisis-One-Inch-Punch) | [YouTube](https://www.youtube.com/watch?v=AxYASEhHUOI) |
 | 16 | Credits | Suiciety | Once Again | [Discogs](https://www.discogs.com/release/7559362-Suiciety-Cell) | [YouTube](https://www.youtube.com/watch?v=0nBX0vdaktA) |
 
 ## Underground Tapes X - Psychotic
