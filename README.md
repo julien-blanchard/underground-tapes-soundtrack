@@ -247,17 +247,17 @@ The following videos were made and produced by **Chris Stroh**, but do not form 
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-1. Intro | ?? | ?? | ?? | ??
-2. Shafting / North Shore | Mumma Green | Barry | ?? | ??
-3. Eppo | Pregant Men | Not Me | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=WfCvRTrolfU
-4. The Maldives | This Thing | No More Storms | https://www.discogs.com/artist/5326618-This-Thing | ??
-5. Personalities | Mumma Green | Butt | ?? | ??
-6. ?? | Third Stone | ?? | ?? | ??
-7. Blacky's Home Video | Suiciety | T.C.P. | https://www.discogs.com/release/3866708-Suiciety-Primrose-Path | https://www.youtube.com/watch?v=9YNLquYhQAU
-8. ?? | Pregnant Men | Party of the Year | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=0aNmpgz--4U
-9. Nugget | Toe to Toe | Something to Believe | https://www.discogs.com/master/497529-Toe-To-Toe-Threats-Facts | https://www.youtube.com/watch?v=qyI3AXc7CSI
-10. Reunion Island | Pregnant Men | Insecurity | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=Dxu2WevV2u0
-11. Credits | ?? | ?? | ?? | ??
+| 1 | Intro | ?? | ?? | ?? | ?? |
+| 2 | Shafting / North Shore | Mumma Green | Barry | ?? | ?? |
+| 3 | Eppo | Pregant Men | Not Me | [Discogs](https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons) | [YouTube](https://www.youtube.com/watch?v=WfCvRTrolfU) |
+| 4 | The Maldives | This Thing | No More Storms | [Discogs](https://www.discogs.com/artist/5326618-This-Thing) | ?? |
+| 5 | Personalities | Mumma Green | Butt | ?? | ?? |
+| 6 | ?? | Third Stone | ?? | ?? | ?? |
+| 7 | Blacky's Home Video | Suiciety | T.C.P. | [Discogs](https://www.discogs.com/release/3866708-Suiciety-Primrose-Path) | [YouTube](https://www.youtube.com/watch?v=9YNLquYhQAU) |
+| 8 | ?? | Pregnant Men | Party of the Year | [Discogs](https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons) | [YouTube](https://www.youtube.com/watch?v=0aNmpgz--4U) |
+| 9 | Nugget | Toe to Toe | Something to Believe | [Discogs](https://www.discogs.com/master/497529-Toe-To-Toe-Threats-Facts) | [YouTube](https://www.youtube.com/watch?v=qyI3AXc7CSI) |
+| 10 | Reunion Island | Pregnant Men | Insecurity | [Discogs](https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons) | [YouTube](https://www.youtube.com/watch?v=Dxu2WevV2u0) |
+| 11 | Credits | ?? | ?? | ?? | ?? |
 
 ## Manta's Secret Weapons  
 
