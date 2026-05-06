@@ -241,6 +241,8 @@ Thanks to:
 | 11 | Peer Pressure | Jasperstone | I don't pay | ?? | ?? |
 | 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | ?? |
 
+## Extras
+
 The following videos were made and produced by **Chris Stroh**, but do not form part of the Underground Tapes series:
 
 ## Inner Views
