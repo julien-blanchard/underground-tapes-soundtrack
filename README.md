@@ -241,6 +241,41 @@ Thanks to:
 | 11 | Peer Pressure | Jasperstone | I don't pay | ?? | ?? |
 | 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | ?? |
 
+The following videos were made and produced by **Chris Stroh**, but do not form part of the Underground Tapes series:
+
+## Inner Views
+
+1. Intro | ?? | ?? | ?? | ??
+2. Shafting / North Shore | Mumma Green | Barry | ?? | ??
+3. Eppo | Pregant Men | Not Me | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=WfCvRTrolfU
+4. The Maldives | This Thing | No More Storms | https://www.discogs.com/artist/5326618-This-Thing | ??
+5. Personalities | Mumma Green | Butt | ?? | ??
+6. ?? | Third Stone | ?? | ?? | ??
+7. Blacky's Home Video | Suiciety | T.C.P. | https://www.discogs.com/release/3866708-Suiciety-Primrose-Path | https://www.youtube.com/watch?v=9YNLquYhQAU
+8. ?? | Pregnant Men | Party of the Year | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=0aNmpgz--4U
+9. Nugget | Toe to Toe | Something to Believe | https://www.discogs.com/master/497529-Toe-To-Toe-Threats-Facts | https://www.youtube.com/watch?v=qyI3AXc7CSI
+10. Reunion Island | Pregnant Men | Insecurity | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=Dxu2WevV2u0
+11. Credits | ?? | ?? | ?? | ??
+
+## Manta's Secret Weapons  
+
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Intro | ?? | ?? | ?? | ?? |
+| 2 | Opening | 28 Days | Sand | [Discogs](https://www.discogs.com/release/2896033-28-Days-28-Days) | [YouTube](https://www.youtube.com/watch?v=kNL9Wg4CEBA) |
+| 3 | The Luke Miller Show | Bodyjar | Sequel | [Discogs](https://www.discogs.com/release/3021957-Bodyjar-No-Touch-Red)| [YouTube](https://www.youtube.com/watch?v=s8kYsHfxdl0&pp=ygUOYm9keWphciBzZXF1ZWw%3D) |
+| 4 | The Shark Island Contest | Trigger | Casting | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | [YouTube](https://www.youtube.com/watch?v=GtGPmw87tFU) |
+| 5 | Joe Jordanoff and Andrew Lester | Pridebowl | Brainwashing School | [Discogs](https://www.discogs.com/release/1419539-Pridebowl-Adhesive-No-Better-No-Worse) | [YouTube](https://www.youtube.com/watch?v=lGeHOTZxu4U) |
+| 6 | Paul Roach | Downtime | April | [Discogs](https://www.discogs.com/release/6488601-Downtime-Tooth-Nail) | [YouTube](https://www.youtube.com/watch?v=wfn0V0ye3Io&pp=ygUOZG93bnRpbWUgYXByaWw%3D) |
+| 7 | Wingnut part I | ?? | ?? | ?? | ?? |
+| 8 | Wingnut part II | Astream | Try Again | [Discogs](https://www.discogs.com/release/1394993-Astream-Jumps-Giggles-And-Shouts) | [YouTube](https://www.youtube.com/watch?v=hR1jUsyzgck) |
+| 9 | Leila Ali | ?? | ?? | ?? | ?? |
+| 10 | Somewhere South | Trigger | Re-Decline | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | ?? |
+| 11 | Hawaii | Bodyjar | You've Taken Everything | [Discogs](https://www.discogs.com/release/3021957-Bodyjar-No-Touch-Red) | [YouTube](https://www.youtube.com/watch?v=fNnP0EwU19I) |
+| 12 | The Shark Island Challenge - Finals | Trigger | Still Water | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | ?? |
+| 13 | Eppo | Frenzal Rhomb | T.N.T. | [Discogs](https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute) | [YouTube](https://www.youtube.com/watch?v=4Ekad8Ksv4U) |
+| 14 | Credits | ?? | ?? | ?? | ?? |
+
 ## FAQ
 
 * *Why did you create this webpage? Surely you must be looking for money or something* - Just like you, I grew up watching these videos over and over again. The Discogs and YouTube / Bandcamp / SoundCloud links do not contain any affiliate id or anything of the sort.
