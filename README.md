@@ -245,6 +245,8 @@ The following videos were made and produced by **Chris Stroh**, but do not form 
 
 ## Inner Views
 
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
 1. Intro | ?? | ?? | ?? | ??
 2. Shafting / North Shore | Mumma Green | Barry | ?? | ??
 3. Eppo | Pregant Men | Not Me | https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons | https://www.youtube.com/watch?v=WfCvRTrolfU
