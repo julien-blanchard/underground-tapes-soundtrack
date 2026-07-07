@@ -312,7 +312,7 @@
 
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Opening | Slayer | ?? | [Discogs]() | [YouTube]() |
+| 1 | Opening | Slayer | Silent Scream | [Discogs](https://www.discogs.com/master/7710-Slayer-South-Of-Heaven) | [YouTube](https://www.youtube.com/watch?v=toMmX0OAm4E) |
 | 2 | ?? | Beastie Boys | Shake Your Rump | [Discogs](https://www.discogs.com/master/20135-Beastie-Boys-Pauls-Boutique) | [YouTube](https://www.youtube.com/watch?v=-XDAJdXe4WU) |
 | 3 | ?? | Burning Spear | On The Inside | [Discogs](https://www.discogs.com/master/108178-Burning-Spear-The-World-Should-Know) | [YouTube](https://www.youtube.com/watch?v=sPtFgvxCd_Q) |
 | 4 | ?? | Messiah | Twenty First Century Jesus | [Discogs](https://www.discogs.com/master/109316-Messiah-21st-Century-Jesus) | [YouTube](https://www.youtube.com/watch?v=d960-egigqo) |
