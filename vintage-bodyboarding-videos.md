@@ -353,3 +353,78 @@
 | 18 | Paul Roach | Lag Wagon | Beer Goggles | [Discogs](https://www.discogs.com/master/39360-Lagwagon-Duh) | [YouTube](https://www.youtube.com/watch?v=qyJriKyjCVM) |
 | 19 | Mike Stewart | Nofx | Dying Degree | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=zIe4c-99slE) |
 | 20 | Credits | No Use For A Name |  | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=FPLYJuz6_nc) |
+
+## R.O.T. 1
+#### All,USA,Riders Of Tubes,Sean Manning,1993
+
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | NOFX | She's Gone | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=8_D3FvrVhcM) |
+| 2 | Pipeline part I | NOFX | Screaming For Change | [Discogs](https://www.discogs.com/master/24609-NOFX-S-M-Airlines) | [YouTube](https://www.youtube.com/watch?v=9bBv2aJ8y1o) |
+| 3 | Pipeline part II | NOFX | Green Corn | [Discogs](https://www.discogs.com/master/24604-NOFX-Ribbed) | [YouTube](https://www.youtube.com/watch?v=uykzo8IKjdU) |
+| 4 | Pipeline part III | NOFX | The Moron Brothers | [Discogs](https://www.discogs.com/master/24604-NOFX-Ribbed) | [YouTube](https://www.youtube.com/watch?v=zy73ic-U1V4) |
+| 5 | California part I | NOFX | Johnny Appleseed | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=h7Jt7UR7L4Q) |
+| 6 | California part II | NOFX | Bob | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=ZGIgJNKr4no) |
+| 7 | California part III | NOFX | Together On The Sand | [Discogs](https://www.discogs.com/master/24604-NOFX-Ribbed) | [YouTube](https://www.youtube.com/watch?v=KAEm46qHk_A) |
+| 8 | ?? | NOFX | New Boobs | [Discogs](https://www.discogs.com/master/24604-NOFX-Ribbed) | [YouTube](https://www.youtube.com/watch?v=HPHIe9aYutk) |
+| 9 | Hawaii | NOFX | Buggley Eyes | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=LWt5Al-Xphg) |
+| 10 | Guilherme Tamega | Lagwagon | Angry Days | [Discogs](https://www.discogs.com/master/39360-Lagwagon-Duh) | [YouTube](https://www.youtube.com/watch?v=Jop5Ozse070) |
+| 11 | Flowrider | NOFX | Liza And Louise | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=Hw6N5zmSaGs) |
+| 12 | Credits | NOFX | The Longest Line | [Discogs](https://www.discogs.com/master/24684-NOFX-The-Longest-Line) | [YouTube](https://www.youtube.com/watch?v=KoLEM-pH6h0) |
+| 13 | Extras part I | NOFX | Please Play This Song On The Radio | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=EF9ubUU0GoE) |
+| 14 | Extras part II | White Kaps | Salad Days | [Discogs](https://www.discogs.com/master/888603-White-Kaps-Salad-Daze) | [YouTube](https://www.youtube.com/watch?v=9BRLyKR3MhY) |
+
+## R.O.T. 2
+#### All,USA,Riders Of Tubes,Sean Manning,1994
+
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Pennywise | Unknown Road | [Discogs](https://www.discogs.com/master/44007-Pennywise-Unknown-Road) | [YouTube](https://www.youtube.com/watch?v=at9YxXMF9Gw) |
+| 2 | ?? | NOFX | Stickin' In My Eyes | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=mDI7n96DLRk) |
+| 3 | Mike Stewart | Bad Religion | Quality Or Quantity | [Discogs](https://www.discogs.com/master/25294-Bad-Religion-Against-The-Grain) | [YouTube](https://www.youtube.com/watch?v=Bf8w5XV_aTA) |
+| 4 | ?? | SNFU | X-Creep | [Discogs](https://www.discogs.com/master/80617-SNFU-Something-Green-And-Leafy-This-Way-Comes) | [YouTube](https://www.youtube.com/watch?v=nD1eiBjCPqU) |
+| 5 | ?? | Pennywise | It's Up To Me | [Discogs](https://www.discogs.com/master/44007-Pennywise-Unknown-Road) | [YouTube](https://www.youtube.com/watch?v=S_VntdKQW1k) |
+| 6 | Dolphin Island | Rancid | Rats In The Hallway | [Discogs](https://www.discogs.com/master/39202-Rancid-Rancid) | [YouTube](https://www.youtube.com/watch?v=2rzJVZh8_H8) |
+| 7 | ?? | The Offspring | Session | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=KTOoseHwHZo) |
+| 8 | ?? | Rancid | Another Night | [Discogs](https://www.discogs.com/master/39202-Rancid-Rancid) | [YouTube](https://www.youtube.com/watch?v=ddBHtcjXnPE) |
+| 9 | ?? | The Offspring | Nothing From Something | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=HR7uDzY5j2I) |
+| 10 | ?? | NOFX | Drug Free America | [Discogs](https://www.discogs.com/master/24609-NOFX-S-M-Airlines) | [YouTube](https://www.youtube.com/watch?v=q8s_aAhdJ88) |
+| 11 | Credits | NOFX | Go Your Own Way | [Discogs](https://www.discogs.com/master/24609-NOFX-S-M-Airlines) | [YouTube](https://www.youtube.com/watch?v=qNrNKvxro_A) |
+
+## R.O.T. 3
+#### All,USA,Riders Of Tubes,Sean Manning,1995
+
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Intro | ?? | ?? | ?? | ?? |
+| 2 | Opening | No Use For A Name | Medley | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=FPLYJuz6_nc) |
+| 3 | California part I | Guns 'N' Wankers | Skin Deep | [Discogs](https://www.discogs.com/master/424145-Guns-N-Wankers-For-Dancing-And-Listening) | [YouTube](https://www.youtube.com/watch?v=1c0vOcWMQ7M) |
+| 4 | California part II | Strung Out | In Harm's Way | [Discogs](https://www.discogs.com/master/44084-Strung-Out-Another-Day-In-Paradise) | [YouTube](https://www.youtube.com/watch?v=IjK_xAuMWF8) |
+| 5 | Brian Wise part I | NOFX | Linoleum | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=d9ORimXBXLw) |
+| 6 | Brian Wise part II | Ignite | Shade | [Discogs](https://www.discogs.com/master/370919-Ignite-Scarred-For-Life) | [YouTube](https://www.youtube.com/watch?v=e3VZRlAAPZY) |
+| 7 | Ross McBride | No Use For A Name | Justified Black Eye | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=H4Rnb_G0Vpg) |
+| 8 | ?? | Good Riddance | Mother Superior | [Discogs](https://www.discogs.com/master/44078-Good-Riddance-For-God-And-Country) | [YouTube](https://www.youtube.com/watch?v=LM05iV5VMKI) |
+| 9 | ?? | NOFX | The Death Of John Smith | [Discogs](https://www.discogs.com/master/24684-NOFX-The-Longest-Line) | [YouTube](https://www.youtube.com/watch?v=vvTWtkKhr5k) |
+| 10 | ?? | Good Riddance | United Cigar | [Discogs](https://www.discogs.com/master/44078-Good-Riddance-For-God-And-Country) | [YouTube](https://www.youtube.com/watch?v=JPd4zyfKnwk) |
+| 11 | ?? | NOFX | Perfect Government | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=HMh6T1am34A) |
+| 12 | Extras part I | ?? | ?? | ?? | ?? |
+| 13 | Extras part II | The Jackson 5 | ABC | [Discogs](https://www.discogs.com/master/268022-Jackson-5-The-Ultimate-Collection) | [YouTube](https://www.youtube.com/watch?v=ISqzbbZVIiU) |
+
+## Class Of 99
+#### All,Australia,Rush Magazine,Chris Stroh,1999
+
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Sugar Ray | Fly | [Discogs](https://www.discogs.com/master/130855-Sugar-Ray-Floored) | [YouTube](https://www.youtube.com/watch?v=I4z_KhR4sOI) |
+| 2 | Damian King | Regurgitator | Everyday Formula | [Discogs](https://www.discogs.com/master/307599-Regurgitator-Unit) | [YouTube](https://www.youtube.com/watch?v=qP1inVfAs8w) |
+| 3 | Nozin' Aroun' | Lagwagon | Violins | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=OyywwSZqVGg) |
+| 4 | Another Secret Spot | The Humpers | Steel-Toed Sneakers | [Discogs](https://www.discogs.com/master/425401-The-Humpers-Euphoria-Confusion-Anger-And-Remorse) | [YouTube](https://www.youtube.com/watch?v=YEmwZkmweMQ) |
+| 5 | Ben Player | Sugar Ray | RPM | [Discogs](https://www.discogs.com/master/130855-Sugar-Ray-Floored) | [YouTube](https://www.youtube.com/watch?v=xwEO2dVafv0&list=RDxwEO2dVafv0&start_radio=1) |
+| 6 | The Tribe | ?? | ?? | ?? | ?? |
+| 7 | Joe & Ryan | Strung Out | Solitaire | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=5ftdbDNbS6g) |
+| 8 | ?? | Cat Stevens | Where Do The Children Play? | [Discogs](https://www.discogs.com/master/343717-Cat-Stevens-The-Very-Best-Of-Cat-Stevens) | [YouTube](https://www.youtube.com/watch?v=gXDjnPvnDyE) |
+| 9 | Toby Player | Not Fun At All | Walk A Mile | [Discogs](https://www.discogs.com/master/880389-No-Fun-At-All-EPs-Going-Steady) | [YouTube](https://www.youtube.com/watch?v=-87lrdbJCbo) |
+| 10 | Bali Holiday | ?? | ?? | ?? | ?? |
+| 11 | Home Videos | ?? | ?? | ?? | ?? |
+| 12 | School's Out | Throwdown | Can't See Anything Wrong | [Discogs](https://www.discogs.com/release/8312068-Throwdown-SCHC-Old-Ones-And-Re-Runs) | ?? |
+| 13 | Credits | Beastie Boys | ?? | [Discogs](https://www.discogs.com/master/20173-Beastie-Boys-Ill-Communication) | [YouTube](https://www.youtube.com/watch?v=JhqyZeUlE8U) |
