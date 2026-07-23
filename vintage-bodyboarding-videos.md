@@ -1,6 +1,5 @@
 ## Underground Tapes II - Waves from Hell
 #### All,Australia,Underground Tapes,Chris Stroh,1992
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | This Thing | ?? | ?? | ?? |
@@ -17,7 +16,6 @@
 
 ## Underground Tapes III - Reef Madness
 #### All,Australia,Underground Tapes,Chris Stroh,1993
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Presto | Wish | [Discogs](https://www.discogs.com/release/25312516-Presto-Walk-Around-It) | ?? |
@@ -35,7 +33,6 @@
 
 ## Underground Tapes IV - Ballistic
 #### All,Australia,Underground Tapes,Chris Stroh,1993
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Ampersand | All Alone | ?? | ?? |
@@ -53,7 +50,6 @@
 
 ## Underground Tapes V - Ocean Fire
 #### All,Australia,Underground Tapes,Chris Stroh,1994
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Spiderbait | Word I Said | [Discogs](https://www.discogs.com/master/506787-Spiderbait-ShaShaVaGlava) | [YouTube](https://www.youtube.com/watch?v=dIw6go6qouE) |
@@ -70,7 +66,6 @@
 
 ## Underground Tapes VI - Seek & Destroy
 #### All,Australia,Underground Tapes,Chris Stroh,1994
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | No Comply | Strive | [Discogs](https://www.discogs.com/release/4786821-No-Comply-Buzz) | [YouTube](https://www.youtube.com/watch?v=zA_zzaxLhQo) |
@@ -89,7 +84,6 @@
 
 ## Underground Tapes VII - Wave Slaves
 #### All,Australia,Underground Tapes,Chris Stroh,1995
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | The Family | Underground | [Discogs](https://www.discogs.com/release/7147234-The-Family-Bleeding-In) | [Bandcamp](https://thefamily7.bandcamp.com/track/bleeding-in) |
@@ -108,7 +102,6 @@
 
 ## Underground Tapes VIII - Warped
 #### All,Australia,Underground Tapes,Chris Stroh,1995
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Pennywise | Killing Time | [Discogs](https://www.discogs.com/master/44000-Pennywise-About-Time) | [YouTube](https://www.youtube.com/watch?v=-VSIKsWKG3o) |
@@ -126,7 +119,6 @@
 
 ## Underground Tapes IX - Fuel
 #### All,Australia,Underground Tapes,Chris Stroh,1996
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Eppo's dream part I | Storytime | Thor Part I | [Discogs](https://www.discogs.com/release/7302975-Storytime-The-Puzzleman) | [Bandcamp](https://storytime1.bandcamp.com/track/thor) |
@@ -148,7 +140,6 @@
 
 ## Underground Tapes X - Psychotic
 #### All,Australia,Underground Tapes,Chris Stroh,1996
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | Pregnant Men | Number Nine | [Discogs](https://www.discogs.com/release/4797114-Pregnant-Men-For-All-The-Wrong-Reasons) | [YouTube](https://www.youtube.com/watch?v=5fkOCwSQbSs) |
@@ -169,7 +160,6 @@
 
 ## Underground Tapes XI - Power Trips
 #### All,Australia,Underground Tapes,Chris Stroh,1997
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Kurgan | Sometimes | [Discogs](https://www.discogs.com/release/12176070-Kurgan-Bizarre-Lasagna) | [YouTube](https://www.youtube.com/watch?v=wB4k254SDJ0) |
@@ -189,7 +179,6 @@
 
 ## Underground Tapes XII - Happy Hour
 #### All,Australia,Underground Tapes,Chris Stroh,1997
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Throwdown SCHC | Free the use | [Discogs](https://www.discogs.com/artist/4216220-Throwdown-SCHC) | Contact me |
@@ -211,7 +200,6 @@
 
 ## Eppo's Freak Show
 #### All,Australia,Underground Tapes,Chris Stroh,1993
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
@@ -229,7 +217,6 @@
 
 ## Inner Views
 #### All,Australia,Various,Chris Stroh,1998
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
@@ -246,7 +233,6 @@
 
 ## Manta's Secret Weapons  
 #### All,Australia,Various,Chris Stroh,1997
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
@@ -264,99 +250,8 @@
 | 13 | Eppo | Frenzal Rhomb | T.N.T | | [Discogs](https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute) | [YouTube](https://www.youtube.com/watch?v=4Ekad8Ksv4U) |
 | 14 | Credits | ?? | ?? | ?? | ?? |
 
-## Blast-Off Phase 3
-#### All,Australia,Various,Derek Hoffmann,1994
-
-| Track | Section | Band | Title | Info | Listen |
-| --- | --- | --- | --- | --- | --- |
-| 4 | Opening | Burning Hands | Passing Blue | ??| ?? |
-| 4 | French Polynesia - Intro | ?? | ?? | ??| ?? |
-| 4 | French Polynesia - Part I | The Hellecasters | Back On Terra Firma | [Discogs](https://www.discogs.com/release/5390227-The-Hellecasters-The-Return-Of-The-Hellecasters)| [YouTube](https://www.youtube.com/watch?v=uwyUjG3PW8c) |
-| 4 | French Polynesia - Part II | Caligula | Before | [Discogs](https://www.discogs.com/release/1218298-Caligula-ICU)| [YouTube](https://www.youtube.com/watch?v=4RnTBe3AroU) |
-| 4 | French Polynesia - Part III | The Cruel Sea | X-N-Pop | [Discogs](https://www.discogs.com/release/394349-The-Cruel-Sea-The-Honeymoon-Is-Over)| [YouTube](https://www.youtube.com/watch?v=O-PsKFOS0To) |
-| 4 | French Polynesia - Part IV | Caligula | Liquid | [Discogs](https://www.discogs.com/release/1218298-Caligula-ICU)| [YouTube](https://www.youtube.com/watch?v=47-9fMRS9s8) |
-| 4 | The Wedge | Head Candy | Soul Grinder | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=xahqvqzuZPc) |
-| 4 | Hauoli Reeves Home Movies | Head Candy | Words To Live By | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=NFVud1vzqI8) |
-| 4 | Rocky Lefts | ?? | ?? | ??| ?? |
-| 4 | Off The Wall | Head Candy | Mona Lisa Overdrive | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=NjpcYzsD2s0) |
-| 4 | Pipeline | The Meices | Pissin' In The Sink | [Discogs](https://www.discogs.com/master/336831-The-Meices-Greatest-Bible-Stories-Ever-Told)| [YouTube](https://www.youtube.com/watch?v=jOpke-3PTU4) |
-| 4 | 3 Faces of Waimea | Tom Curren's Ocean Surf Aces | 7th Reef | [Discogs](https://www.discogs.com/release/7658345-Tom-Curren-Ocean-Surf-Aces)| ?? |
-| 4 | ?? | Burning Hands | Naha | [Discogs](https://www.discogs.com/release/12519021-Burning-Hands-I-Have-No-God)| ?? |
-| 4 | Credits | The Hellecasters | Highlander Boogie | [Discogs](https://www.discogs.com/release/5390227-The-Hellecasters-The-Return-Of-The-Hellecasters)| [YouTube](https://www.youtube.com/watch?v=YnXyWjKS-7Y) |
-
-
-## 50-50
-#### All,USA,Various,Brian Stokes,1997
-
-| Track | Section | Band | Title | Info | Listen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Opening | Raised Fist | Too Late To Change | [Discogs](https://www.discogs.com/master/401862-Raised-Fist-Youre-Not-Like-Me) | [YouTube](https://www.youtube.com/watch?v=H1GfxNZ8_mc) |
-| 2 | Eat Its | Everyday Madness | Problems | [Discogs](https://www.discogs.com/release/2411858-Everyday-Madness-Preaching-To-The-Converted) | [YouTube](https://www.youtube.com/watch?v=L31jT8RCC38) |
-| 3 | Kainoa McGee | Misconduct | Claim Your Rights | [Discogs](https://www.discogs.com/release/2432138-Misconduct-A-Change) | [YouTube](https://www.youtube.com/watch?v=L31jT8RCC38) |
-| 4 | Various - Part I | Men At Work | Down Under | [Discogs](https://www.discogs.com/master/82009-Men-At-Work-Business-As-Usual) | [YouTube](https://www.youtube.com/watch?v=XfR9iY5y94s) |
-| 5 | Various - Part II | Swingin' Utters | Windspitting Punk | [Discogs](https://www.discogs.com/master/166254-Swingin-Utters-A-Juvenile-Product-Of-The-Working-Class) | [YouTube](https://www.youtube.com/watch?v=fKEJtl_Zx2I) |
-| 6 | Bag of Potatoes | Everready | Stuck | [Discogs](https://www.discogs.com/release/3645287-Everready-Reinheitsgebot) | [YouTube](https://www.youtube.com/watch?v=r2eLs8jqrSk) |
-| 7 | Various - Part II | Modern English | I Met With You | [Discogs](https://www.discogs.com/master/17197-Modern-English-After-The-Snow) | [YouTube](https://www.youtube.com/watch?v=LuN6gs0AJls) |
-| 8 | Don't Ask | Kool & The Gang | Celebration | [Discogs](https://www.discogs.com/master/113391-Kool-The-Gang-Celebrate) | [YouTube](https://www.youtube.com/watch?v=3GwjfUFyY6M) |
-| 9 | Drink Its | Misconduct | United | [Discogs](https://www.discogs.com/release/2432138-Misconduct-A-Change) | [YouTube](https://www.youtube.com/watch?v=8vPJOcTEXhs) |
-| 10 | Brian Wise | Pridebowl | Curiosity | [Discogs](https://www.discogs.com/master/449690-Pridebowl-Where-You-Put-Your-Trust) | [YouTube](https://www.youtube.com/watch?v=9w7-vgw0h68) |
-| 11 | 8 South Africans | MxPx | Today Is In My Way | [Discogs](https://www.discogs.com/master/232877-MxPx-Life-In-General) | [YouTube](https://www.youtube.com/watch?v=2_TLn6x1CQw) |
-| 12 | 3 World Chumps | Raised Fist | Break Free | [Discogs](https://www.discogs.com/master/401862-Raised-Fist-Youre-Not-Like-Me) | [YouTube](https://www.youtube.com/watch?v=FB0rwhFMnf8) |
-| 13 | Chick Magnet | Value Pac | Sticks And Stones | [Discogs](https://www.discogs.com/release/481417-Value-Pac-Value-Pac) | [YouTube](https://www.youtube.com/watch?v=CueX0IxiypQ) |
-| 14 | The Rest | Ignite | Turn | [Discogs](https://www.discogs.com/master/600306-Ignite-Where-They-Talk) | [YouTube](https://www.youtube.com/watch?v=ykTSFwWJlAs) |
-| 15 | Credits | Cub | Magic 8 Ball | [Discogs](https://www.discogs.com/master/148808-Cub-Box-Of-Hair) | [YouTube](https://www.youtube.com/watch?v=7zIOeQ-tu_c) |
-| 16 | Paul Roach | Go-Go's | Vacation | [Discogs](https://www.discogs.com/master/81563-Go-Gos-Vacation) | [YouTube](https://www.youtube.com/watch?v=HXb0SuSxZR8) |
-
-## The Inside
-#### All,USA,Various,Scott Carter,1996
-
-| Track | Section | Band | Title | Info | Listen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Opening | Slayer | Silent Scream | [Discogs](https://www.discogs.com/master/7710-Slayer-South-Of-Heaven) | [YouTube](https://www.youtube.com/watch?v=toMmX0OAm4E) |
-| 2 | ?? | Beastie Boys | Shake Your Rump | [Discogs](https://www.discogs.com/master/20135-Beastie-Boys-Pauls-Boutique) | [YouTube](https://www.youtube.com/watch?v=-XDAJdXe4WU) |
-| 3 | ?? | Burning Spear | On The Inside | [Discogs](https://www.discogs.com/master/108178-Burning-Spear-The-World-Should-Know) | [YouTube](https://www.youtube.com/watch?v=sPtFgvxCd_Q) |
-| 4 | ?? | Messiah | Twenty First Century Jesus | [Discogs](https://www.discogs.com/master/109316-Messiah-21st-Century-Jesus) | [YouTube](https://www.youtube.com/watch?v=d960-egigqo) |
-| 5 | ?? | The Sisters Love | Give Me Your Love | [Discogs](https://www.discogs.com/master/319946-The-Sisters-Love-Give-Me-Your-Love) | [YouTube](https://www.youtube.com/watch?v=r_6RGnry2BA) |
-| 6 | ?? | Macka B | Legalize The Herb | [Discogs](https://www.discogs.com/master/372773-Macka-B-Hold-On-To-Your-Culture) | [YouTube](https://www.youtube.com/watch?v=NQuRRdG2U54) |
-| 7 | Chad Barba | Israel Vibrations | A Fox Dub | [Discogs](https://www.discogs.com/master/139881-Israel-Vibration-On-The-Rock) | [YouTube](https://www.youtube.com/watch?v=zVej9GDahuA) |
-| 8 | ?? | Lords Of Acid | The Crab Louse | [Discogs](https://www.discogs.com/master/12738-Lords-Of-Acid-Voodoo-U) | [YouTube](https://www.youtube.com/watch?v=Inhi3gDiSLs) |
-| 9 | ?? | ?? | ?? | ?? | ?? |
-| 10 | Aka Lyman | Israel Vibrations | A Jungle Dub | [Discogs](https://www.discogs.com/master/3410557-Israel-Vibration-Rudeboy-Shufflin) | [YouTube](https://www.youtube.com/watch?v=VpY1Ef4ega8) |
-| 11 | Mexico | Eliha & Pepe Estevane | The Puerto Jam | ?? | ?? |
-| 12 | ?? | Shaheen | ?? | ?? | ?? |
-| 13 | ?? | The Wailers Band | Some Say (Let It Grow) | [Discogs](https://www.discogs.com/release/3350130-The-Wailers-Band-Jah-Message) | [YouTube](https://www.youtube.com/watch?v=4zvTpMk2JnE) |
-| 14 | ?? | Macka B | Woman | [Discogs](https://www.discogs.com/release/3060968-Macka-B-Hold-On-To-Your-Culture) | [YouTube](https://www.youtube.com/watch?v=OyZQlMLqVaQ) |
-| 15 | Credits | ?? | ?? | ?? | ?? |
-
-## Spit
-#### All,USA,Various,Brian Stokes,1995
-
-| Track | Section | Band | Title | Info | Listen |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Opening | Strung Out | In Harm's Way | [Discogs](https://www.discogs.com/master/44084-Strung-Out-Another-Day-In-Paradise) | [YouTube](https://www.youtube.com/watch?v=IjK_xAuMWF8) |
-| 2 | Brian Wise | Gorilla Biscuits | New Direction | [Discogs](https://www.discogs.com/master/53342-Gorilla-Biscuits-Start-Today) | [YouTube](https://www.youtube.com/watch?v=YnIEgnar4aY) |
-| 3 | Beavor & Bannister | Minor Threat | Minor Threat | [Discogs](https://www.discogs.com/master/9719-Minor-Threat-Minor-Threat) | [YouTube](https://www.youtube.com/watch?v=smM_bphb6pU) |
-| 4 | California | 7 Seconds | Regress No Way | [Discogs](https://www.discogs.com/master/17273-7-Seconds-Walk-Together-Rock-Together) | [YouTube](https://www.youtube.com/watch?v=_ZHbgqOX92w) |
-| 5 | Hawaiians | Ten Foot Pole | Never Look Back | [Discogs](https://www.discogs.com/master/136540-Ten-Foot-Pole-Rev) | [YouTube](https://www.youtube.com/watch?v=7P9OU21VXQo) |
-| 6 | Hetrick & Bagley | Face To Face | Disconnected | [Discogs](https://www.discogs.com/master/87850-Face-To-Face-Dont-Turn-Away) | [YouTube](https://www.youtube.com/watch?v=B4oV_WmGHSE) |
-| 7 | South Africans | Gorilla Biscuits | Short End Of The Stick | [Discogs](https://www.discogs.com/master/86392-Gorilla-Biscuits-Gorilla-Biscuits) | [YouTube](https://www.youtube.com/watch?v=p4vAv7QFB7A) |
-| 8 | ?? | Strung Out | Lost? | [Discogs](https://www.discogs.com/master/44084-Strung-Out-Another-Day-In-Paradise) | [YouTube](https://www.youtube.com/watch?v=SOiD76UNS4w) |
-| 9 | Pipeline | ?? | ?? | ?? | ?? |
-| 10 | More Australians | Face To Face | Pastel | [Discogs](https://www.discogs.com/master/87850-Face-To-Face-Dont-Turn-Away) | [YouTube](https://www.youtube.com/watch?v=qz0rUHhCJNw) |
-| 11 | Nice Tries | S.O.A. | Blackout | [Discogs](https://www.discogs.com/master/268453-SOA-No-Policy-EP) | [YouTube](https://www.youtube.com/watch?v=8yrt3EZ53K4) |
-| 12 | Everyone | Nofx | Shut Up Already | [Discogs](https://www.discogs.com/master/17212-NOFX-Liberal-Animation) | [YouTube](https://www.youtube.com/watch?v=Ftx8ZYU3S3s) |
-| 13 | Dropknee | Useless | Big Big Cheese | ?? | ?? |
-| 14 | Tamega & Ronquilio | Gorilla Biscuits | Competition | [Discogs](https://www.discogs.com/master/53342-Gorilla-Biscuits-Start-Today) | [YouTube](https://www.youtube.com/watch?v=KhH3uzGwwEU) |
-| 15 | Harnsberger & Reeves | 7 Seconds | Walk Together, Rock Together | [Discogs](https://www.discogs.com/master/17273-7-Seconds-Walk-Together-Rock-Together) | [YouTube](https://www.youtube.com/watch?v=ImnNtwKPODc) |
-| 16 | Nice Tries (Parth II) | Minor Threat | Straight Edge | [Discogs](https://www.discogs.com/master/9719-Minor-Threat-Minor-Threat) | [YouTube](https://www.youtube.com/watch?v=gsAu-nOg3Tw) |
-| 17 | Unknowns | Gorilla Biscuits | Hold Your Ground | [Discogs](https://www.discogs.com/master/86392-Gorilla-Biscuits-Gorilla-Biscuits) | [YouTube](https://www.youtube.com/watch?v=tl4BOG3SmCk) |
-| 18 | Paul Roach | Lag Wagon | Beer Goggles | [Discogs](https://www.discogs.com/master/39360-Lagwagon-Duh) | [YouTube](https://www.youtube.com/watch?v=qyJriKyjCVM) |
-| 19 | Mike Stewart | Nofx | Dying Degree | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=zIe4c-99slE) |
-| 20 | Credits | No Use For A Name |  | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=FPLYJuz6_nc) |
-
 ## R.O.T. 1
 #### All,USA,Riders Of Tubes,Sean Manning,1993
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | NOFX | She's Gone | [Discogs](https://www.discogs.com/master/24711-NOFX-White-Trash-Two-Heebs-And-A-Bean) | [YouTube](https://www.youtube.com/watch?v=8_D3FvrVhcM) |
@@ -376,7 +271,6 @@
 
 ## R.O.T. 2
 #### All,USA,Riders Of Tubes,Sean Manning,1994
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Pennywise | Unknown Road | [Discogs](https://www.discogs.com/master/44007-Pennywise-Unknown-Road) | [YouTube](https://www.youtube.com/watch?v=at9YxXMF9Gw) |
@@ -393,7 +287,6 @@
 
 ## R.O.T. 3
 #### All,USA,Riders Of Tubes,Sean Manning,1995
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Intro | ?? | ?? | ?? | ?? |
@@ -410,16 +303,146 @@
 | 12 | Extras part I | ?? | ?? | ?? | ?? |
 | 13 | Extras part II | The Jackson 5 | ABC | [Discogs](https://www.discogs.com/master/268022-Jackson-5-The-Ultimate-Collection) | [YouTube](https://www.youtube.com/watch?v=ISqzbbZVIiU) |
 
+## R.O.T. 808
+#### All,USA,Riders Of Tubes,Chad K. Uyeno,1992
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Guttermouth | Asshole | [Discogs](https://www.discogs.com/master/153017-Guttermouth-Friendly-People) | [YouTube](https://www.youtube.com/watch?v=4pdgcjQ7MW8) |
+| 2 | Lanson Ronquilio | Pridebowl | Dollar Sign Cries | [Discogs](https://www.discogs.com/master/2735516-Pridebowl-Long-Distance) | [YouTube](https://www.youtube.com/watch?v=BzR6TtMLEE4) |
+| 3 | Legends | Voodoo Glow Skulls | Shoot The Moon | [Discogs](https://www.discogs.com/master/39315-Voodoo-Glow-Skulls-Firme) | [YouTube](https://www.youtube.com/watch?v=-dy74BELZqw) |
+| 4 | ?? | The Vandals | Supercalifragilisticexpialidocious | [Discogs](https://www.discogs.com/master/153014-The-Vandals-Live-Fast-Diarrhea) | [YouTube](https://www.youtube.com/watch?v=GJruOHI9q1g) |
+| 5 | ?? | Guttermouth | You're Late | [Discogs](https://www.discogs.com/master/153017-Guttermouth-Friendly-People) | [YouTube](https://www.youtube.com/watch?v=TeJ7auxsxQ4) |
+| 6 | Hauoli Reeves | 88 Fingers Louie | Explanation | [Discogs](https://www.discogs.com/master/414650-88-Fingers-Louie-Behind-Bars) | [YouTube](https://www.youtube.com/watch?v=HVK3xzPHsCY) |
+| 7 | ?? | Wizo | Raum Der Zeit | [Discogs](https://www.discogs.com/master/61615-WIZO-UUAARRGH) | [YouTube](https://www.youtube.com/watch?v=6A-flxZH3v8) |
+| 8 | ?? | 311 | Feels So Good | [Discogs](https://www.discogs.com/master/28152-311-Music) | [YouTube](https://www.youtube.com/watch?v=ebLhpeLLg0I) |
+| 9 | Tharin Rosa | Guttermouth | Summer's Over | [Discogs](https://www.discogs.com/master/153017-Guttermouth-Friendly-People) | [YouTube](https://www.youtube.com/watch?v=1VG20HT2y60) |
+| 10 | Tony Boy | The Vandals | Kick Me | [Discogs](https://www.discogs.com/master/153014-The-Vandals-Live-Fast-Diarrhea) | [YouTube](https://www.youtube.com/watch?v=OTqYG7xxwyA) |
+| 11 | The Underground | Mac Mall | This Is My Opinion | [Discogs](https://www.discogs.com/master/168680-Mac-Mall-Illegal-Business) | [YouTube](https://www.youtube.com/watch?v=rCQqCOu1qWs) |
+| 12 | Tony Boy Part II | ?? | ?? | ?? | ?? |
+| 13 | Credits | ?? | ?? | ?? | ?? |
+| 14 | Extras I | Pennywise | Peaceful Day | [Discogs](https://www.discogs.com/master/44000-Pennywise-About-Time) | [YouTube](https://www.youtube.com/watch?v=WbUdioBdZ_Y) |
+| 15 | Extras II | Satanic Surfers | Equal Rights | [Discogs](https://www.discogs.com/master/1196164-Ten-Foot-Pole-Satanic-Surfers-Ten-Foot-Pole-Satanic-Surfers-Split) | [YouTube](https://www.youtube.com/watch?v=9EKujZwp5uk) |
+| 16 | Extras II | Unit 101 | No Ka Oi | [Discogs](https://www.discogs.com/master/3922495-Unit-101-Unit-101) | [YouTube](https://www.youtube.com/watch?v=xqd3dAqIjOw) |
+
+## Blast-Off Phase 3
+#### All,Australia,Various,Derek Hoffmann,1994
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Burning Hands | Passing Blue | ??| ?? |
+| 2 | French Polynesia - Intro | ?? | ?? | ??| ?? |
+| 3 | French Polynesia - Part I | The Hellecasters | Back On Terra Firma | [Discogs](https://www.discogs.com/release/5390227-The-Hellecasters-The-Return-Of-The-Hellecasters)| [YouTube](https://www.youtube.com/watch?v=uwyUjG3PW8c) |
+| 4 | French Polynesia - Part II | Caligula | Before | [Discogs](https://www.discogs.com/release/1218298-Caligula-ICU)| [YouTube](https://www.youtube.com/watch?v=4RnTBe3AroU) |
+| 5 | French Polynesia - Part III | The Cruel Sea | X-N-Pop | [Discogs](https://www.discogs.com/release/394349-The-Cruel-Sea-The-Honeymoon-Is-Over)| [YouTube](https://www.youtube.com/watch?v=O-PsKFOS0To) |
+| 6 | French Polynesia - Part IV | Caligula | Liquid | [Discogs](https://www.discogs.com/release/1218298-Caligula-ICU)| [YouTube](https://www.youtube.com/watch?v=47-9fMRS9s8) |
+| 7 | The Wedge | Head Candy | Soul Grinder | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=xahqvqzuZPc) |
+| 8 | Hauoli Reeves Home Movies | Head Candy | Words To Live By | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=NFVud1vzqI8) |
+| 9 | Rocky Lefts | ?? | ?? | ??| ?? |
+| 10 | Off The Wall | Head Candy | Mona Lisa Overdrive | [Discogs](https://www.discogs.com/release/401071-Head-Candy-Starcaster)| [YouTube](https://www.youtube.com/watch?v=NjpcYzsD2s0) |
+| 11 | Pipeline | The Meices | Pissin' In The Sink | [Discogs](https://www.discogs.com/master/336831-The-Meices-Greatest-Bible-Stories-Ever-Told)| [YouTube](https://www.youtube.com/watch?v=jOpke-3PTU4) |
+| 12 | 3 Faces of Waimea | Tom Curren's Ocean Surf Aces | 7th Reef | [Discogs](https://www.discogs.com/release/7658345-Tom-Curren-Ocean-Surf-Aces)| ?? |
+| 13 | ?? | Burning Hands | Naha | [Discogs](https://www.discogs.com/release/12519021-Burning-Hands-I-Have-No-God)| ?? |
+| 14 | Credits | The Hellecasters | Highlander Boogie | [Discogs](https://www.discogs.com/release/5390227-The-Hellecasters-The-Return-Of-The-Hellecasters)| [YouTube](https://www.youtube.com/watch?v=YnXyWjKS-7Y) |
+
+## 50-50
+#### All,USA,Various,Brian Stokes,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Raised Fist | Too Late To Change | [Discogs](https://www.discogs.com/master/401862-Raised-Fist-Youre-Not-Like-Me) | [YouTube](https://www.youtube.com/watch?v=H1GfxNZ8_mc) |
+| 2 | Eat Its | Everyday Madness | Problems | [Discogs](https://www.discogs.com/release/2411858-Everyday-Madness-Preaching-To-The-Converted) | [YouTube](https://www.youtube.com/watch?v=L31jT8RCC38) |
+| 3 | Kainoa McGee | Misconduct | Claim Your Rights | [Discogs](https://www.discogs.com/release/2432138-Misconduct-A-Change) | [YouTube](https://www.youtube.com/watch?v=L31jT8RCC38) |
+| 4 | Various - Part I | Men At Work | Down Under | [Discogs](https://www.discogs.com/master/82009-Men-At-Work-Business-As-Usual) | [YouTube](https://www.youtube.com/watch?v=XfR9iY5y94s) |
+| 5 | Various - Part II | Swingin' Utters | Windspitting Punk | [Discogs](https://www.discogs.com/master/166254-Swingin-Utters-A-Juvenile-Product-Of-The-Working-Class) | [YouTube](https://www.youtube.com/watch?v=fKEJtl_Zx2I) |
+| 6 | Bag of Potatoes | Everready | Stuck | [Discogs](https://www.discogs.com/release/3645287-Everready-Reinheitsgebot) | [YouTube](https://www.youtube.com/watch?v=r2eLs8jqrSk) |
+| 7 | Various - Part II | Modern English | I Melt With You | [Discogs](https://www.discogs.com/master/17197-Modern-English-After-The-Snow) | [YouTube](https://www.youtube.com/watch?v=LuN6gs0AJls) |
+| 8 | Don't Ask | Kool & The Gang | Celebration | [Discogs](https://www.discogs.com/master/113391-Kool-The-Gang-Celebrate) | [YouTube](https://www.youtube.com/watch?v=3GwjfUFyY6M) |
+| 9 | Drink Its | Misconduct | United | [Discogs](https://www.discogs.com/release/2432138-Misconduct-A-Change) | [YouTube](https://www.youtube.com/watch?v=8vPJOcTEXhs) |
+| 10 | Brian Wise | Pridebowl | Curiosity | [Discogs](https://www.discogs.com/master/449690-Pridebowl-Where-You-Put-Your-Trust) | [YouTube](https://www.youtube.com/watch?v=9w7-vgw0h68) |
+| 11 | 8 South Africans | MxPx | Today Is In My Way | [Discogs](https://www.discogs.com/master/232877-MxPx-Life-In-General) | [YouTube](https://www.youtube.com/watch?v=2_TLn6x1CQw) |
+| 12 | 3 World Chumps | Raised Fist | Break Free | [Discogs](https://www.discogs.com/master/401862-Raised-Fist-Youre-Not-Like-Me) | [YouTube](https://www.youtube.com/watch?v=FB0rwhFMnf8) |
+| 13 | Chick Magnet | Value Pac | Sticks And Stones | [Discogs](https://www.discogs.com/release/481417-Value-Pac-Value-Pac) | [YouTube](https://www.youtube.com/watch?v=CueX0IxiypQ) |
+| 14 | The Rest | Ignite | Turn | [Discogs](https://www.discogs.com/master/600306-Ignite-Where-They-Talk) | [YouTube](https://www.youtube.com/watch?v=ykTSFwWJlAs) |
+| 15 | Credits | Cub | Magic 8 Ball | [Discogs](https://www.discogs.com/master/148808-Cub-Box-Of-Hair) | [YouTube](https://www.youtube.com/watch?v=7zIOeQ-tu_c) |
+| 16 | Paul Roach | Go-Go's | Vacation | [Discogs](https://www.discogs.com/master/81563-Go-Gos-Vacation) | [YouTube](https://www.youtube.com/watch?v=HXb0SuSxZR8) |
+
+## The Inside
+#### All,USA,Various,Scott Carter,1996
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Slayer | Silent Scream | [Discogs](https://www.discogs.com/master/7710-Slayer-South-Of-Heaven) | [YouTube](https://www.youtube.com/watch?v=toMmX0OAm4E) |
+| 2 | ?? | Beastie Boys | Shake Your Rump | [Discogs](https://www.discogs.com/master/20135-Beastie-Boys-Pauls-Boutique) | [YouTube](https://www.youtube.com/watch?v=-XDAJdXe4WU) |
+| 3 | ?? | Burning Spear | On The Inside | [Discogs](https://www.discogs.com/master/108178-Burning-Spear-The-World-Should-Know) | [YouTube](https://www.youtube.com/watch?v=sPtFgvxCd_Q) |
+| 4 | ?? | Messiah | Twenty First Century Jesus | [Discogs](https://www.discogs.com/master/109316-Messiah-21st-Century-Jesus) | [YouTube](https://www.youtube.com/watch?v=d960-egigqo) |
+| 5 | ?? | The Sisters Love | Give Me Your Love | [Discogs](https://www.discogs.com/master/319946-The-Sisters-Love-Give-Me-Your-Love) | [YouTube](https://www.youtube.com/watch?v=r_6RGnry2BA) |
+| 6 | ?? | Macka B | Legalize The Herb | [Discogs](https://www.discogs.com/master/372773-Macka-B-Hold-On-To-Your-Culture) | [YouTube](https://www.youtube.com/watch?v=NQuRRdG2U54) |
+| 7 | Chad Barba | Israel Vibrations | A Fox Dub | [Discogs](https://www.discogs.com/master/139881-Israel-Vibration-On-The-Rock) | [YouTube](https://www.youtube.com/watch?v=zVej9GDahuA) |
+| 8 | ?? | Lords Of Acid | The Crab Louse | [Discogs](https://www.discogs.com/master/12738-Lords-Of-Acid-Voodoo-U) | [YouTube](https://www.youtube.com/watch?v=Inhi3gDiSLs) |
+| 9 | ?? | ?? | ?? | ?? | ?? |
+| 10 | Aka Lyman | Israel Vibrations | A Jungle Dub | [Discogs](https://www.discogs.com/master/3410557-Israel-Vibration-Rudeboy-Shufflin) | [YouTube](https://www.youtube.com/watch?v=VpY1Ef4ega8) |
+| 11 | Mexico | Eliha & Pepe Estevane | The Puerto Jam | ?? | ?? |
+| 12 | ?? | Shaheen | ?? | ?? | ?? |
+| 13 | ?? | The Wailers Band | Some Say (Let It Grow) | [Discogs](https://www.discogs.com/release/3350130-The-Wailers-Band-Jah-Message) | [YouTube](https://www.youtube.com/watch?v=4zvTpMk2JnE) |
+| 14 | ?? | Macka B | Woman | [Discogs](https://www.discogs.com/release/3060968-Macka-B-Hold-On-To-Your-Culture) | [YouTube](https://www.youtube.com/watch?v=OyZQlMLqVaQ) |
+| 15 | Credits | ?? | ?? | ?? | ?? |
+
+## Dyslexic
+#### All,USA,Various,Brian Stokes,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | 88 Fingers Louie | Go Away | [Discogs](https://www.discogs.com/master/669620-88-Fingers-Louie-The-Dom-Years) | [YouTube](https://www.youtube.com/watch?v=KdsjoN3Rf-w) |
+| 2 | Lanson Ronquilio | Everready | Inside My Head | [Discogs](https://www.discogs.com/master/514472-Everready-Fair-Play) | [YouTube](https://www.youtube.com/watch?v=qQuKJizx1wU) |
+| 3 | California (Early Season) | Hi-Standard | California Dreaming | [Discogs](https://www.discogs.com/master/108782-Hi-Standard-Growing-Up) | [YouTube](https://www.youtube.com/watch?v=iVm-pTiyC48) |
+| 4 | Phil & Jacob | Incomplete | I'll Try | [Discogs](https://www.discogs.com/release/4214913-Incomplete-93-98-Sorry-This-Albums-So-Late) | [YouTube](https://www.youtube.com/watch?v=jyUc53tv5t8) |
+| 5 | Hawaiians | The Mr. T Experience | New Girlfriend | [Discogs](https://www.discogs.com/master/2194996-The-Mr-T-Experience-Shards-Vol-3-) | [YouTube](https://www.youtube.com/watch?v=uRReJ4ovICA) |
+| 6 | Hidden | The Bollweevils | What Have We Learned | [Discogs](https://www.discogs.com/master/426594-The-Bollweevils-Disassembler-EP) | [YouTube](https://www.youtube.com/watch?v=eud7Tnn6b9w) |
+| 7 | Ties Nries | 7 Seconds | Here's Your Warning | [Discogs](https://www.discogs.com/master/17234-7-Seconds-The-Crew) | [YouTube](https://www.youtube.com/watch?v=ylj7Ek0ewLQ) |
+| 8 | Ross McBride | Cringer | Stump | [Discogs](https://www.discogs.com/master/840192-Cringer-Time-For-A-Little-Something) | [YouTube](https://www.youtube.com/watch?v=cJWHfxdm1_U) |
+| 9 | Emptiness | ?? | ?? | ?? | ?? |
+| 10 | Hawaiians | The Bouncing Souls | Quick Chek Girl | [Discogs](https://www.discogs.com/master/39129-Bouncing-Souls-Maniacal-Laughter) | [YouTube](https://www.youtube.com/watch?v=6WoEX91HA5Q) |
+| 11 | Spencer Skipper | Squirtgun | Liar's Corner | [Discogs](https://www.discogs.com/master/391310-Squirtgun-Squirtgun) | [YouTube](https://www.youtube.com/watch?v=wGHoH2ZmBe4) |
+| 12 | Californians | The Crucified | GOD | [Discogs](https://www.discogs.com/release/2707272-The-Crucified-The-Complete-Collection) | [YouTube](https://www.youtube.com/watch?v=LmhdAq8tv7c) |
+| 13 | Nelz & Chris | Thirsty | She's Got A Boyfriend | [Discogs](https://www.discogs.com/release/4913815-Thirsty-Getting-Along-Together) | [YouTube](https://www.youtube.com/watch?v=XBvzzW6rhjA) |
+| 14 | ?? | The Queers | I Can't Stop Farting | [Discogs](https://www.discogs.com/master/50094-The-Queers-Love-Songs-For-The-Retarded) | [YouTube](https://www.youtube.com/watch?v=DxHXbp3gBvs) |
+| 15 | Ties Nries Part II | Ceasefire | Behind Closed Doors | ?? | ?? |
+| 16 | Seven South Africans | MxPx | I'm The Bad Guy | [Discogs](https://www.discogs.com/master/109648-MxPx-Teenage-Politics) | [YouTube](https://www.youtube.com/watch?v=yuhmX7lFsE0) |
+| 17 | ?? | The Wynona Riders | Downtown | [Discogs](https://www.discogs.com/master/244309-The-Wynona-Riders-JD-Salinger) | [YouTube](https://www.youtube.com/watch?v=2C7PjHcC1XM) |
+| 18 | Tamega | One By One | Missing You | ?? | ?? |
+| 19 | Everyone Else | Ghotihook | Scared Am I | [Discogs](https://www.discogs.com/master/1343655-Ghoti-Hook-Sumo-Surprise) | [YouTube](https://www.youtube.com/watch?v=qyiwBZ38PYA) |
+| 20 | ?? | ?? | ?? | ?? | ?? |
+
+## Spit
+#### All,USA,Various,Brian Stokes,1995
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Strung Out | In Harm's Way | [Discogs](https://www.discogs.com/master/44084-Strung-Out-Another-Day-In-Paradise) | [YouTube](https://www.youtube.com/watch?v=IjK_xAuMWF8) |
+| 2 | Brian Wise | Gorilla Biscuits | New Direction | [Discogs](https://www.discogs.com/master/53342-Gorilla-Biscuits-Start-Today) | [YouTube](https://www.youtube.com/watch?v=YnIEgnar4aY) |
+| 3 | Beavor & Bannister | Minor Threat | Minor Threat | [Discogs](https://www.discogs.com/master/9719-Minor-Threat-Minor-Threat) | [YouTube](https://www.youtube.com/watch?v=smM_bphb6pU) |
+| 4 | California | 7 Seconds | Regress No Way | [Discogs](https://www.discogs.com/master/17273-7-Seconds-Walk-Together-Rock-Together) | [YouTube](https://www.youtube.com/watch?v=_ZHbgqOX92w) |
+| 5 | Hawaiians | Ten Foot Pole | Never Look Back | [Discogs](https://www.discogs.com/master/136540-Ten-Foot-Pole-Rev) | [YouTube](https://www.youtube.com/watch?v=7P9OU21VXQo) |
+| 6 | Hetrick & Bagley | Face To Face | Disconnected | [Discogs](https://www.discogs.com/master/87850-Face-To-Face-Dont-Turn-Away) | [YouTube](https://www.youtube.com/watch?v=B4oV_WmGHSE) |
+| 7 | South Africans | Gorilla Biscuits | Short End Of The Stick | [Discogs](https://www.discogs.com/master/86392-Gorilla-Biscuits-Gorilla-Biscuits) | [YouTube](https://www.youtube.com/watch?v=p4vAv7QFB7A) |
+| 8 | ?? | Strung Out | Lost? | [Discogs](https://www.discogs.com/master/44084-Strung-Out-Another-Day-In-Paradise) | [YouTube](https://www.youtube.com/watch?v=SOiD76UNS4w) |
+| 9 | Pipeline | ?? | ?? | ?? | ?? |
+| 10 | More Australians | Face To Face | Pastel | [Discogs](https://www.discogs.com/master/87850-Face-To-Face-Dont-Turn-Away) | [YouTube](https://www.youtube.com/watch?v=qz0rUHhCJNw) |
+| 11 | Nice Tries | S.O.A. | Blackout | [Discogs](https://www.discogs.com/master/268453-SOA-No-Policy-EP) | [YouTube](https://www.youtube.com/watch?v=8yrt3EZ53K4) |
+| 12 | Everyone | Nofx | Shut Up Already | [Discogs](https://www.discogs.com/master/17212-NOFX-Liberal-Animation) | [YouTube](https://www.youtube.com/watch?v=Ftx8ZYU3S3s) |
+| 13 | Drop-knee | Useless | ?? | ?? | ?? |
+| 14 | Tamega & Ronquilio | Gorilla Biscuits | Competition | [Discogs](https://www.discogs.com/master/53342-Gorilla-Biscuits-Start-Today) | [YouTube](https://www.youtube.com/watch?v=KhH3uzGwwEU) |
+| 15 | Harnsberger & Reeves | 7 Seconds | Walk Together Rock Together | [Discogs](https://www.discogs.com/master/17273-7-Seconds-Walk-Together-Rock-Together) | [YouTube](https://www.youtube.com/watch?v=ImnNtwKPODc) |
+| 16 | Nice Tries (Parth II) | Minor Threat | Straight Edge | [Discogs](https://www.discogs.com/master/9719-Minor-Threat-Minor-Threat) | [YouTube](https://www.youtube.com/watch?v=gsAu-nOg3Tw) |
+| 17 | Unknowns | Gorilla Biscuits | Hold Your Ground | [Discogs](https://www.discogs.com/master/86392-Gorilla-Biscuits-Gorilla-Biscuits) | [YouTube](https://www.youtube.com/watch?v=tl4BOG3SmCk) |
+| 18 | Paul Roach | Lag Wagon | Beer Goggles | [Discogs](https://www.discogs.com/master/39360-Lagwagon-Duh) | [YouTube](https://www.youtube.com/watch?v=qyJriKyjCVM) |
+| 19 | Mike Stewart | Nofx | Dying Degree | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=zIe4c-99slE) |
+| 20 | Credits | No Use For A Name | Medley | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=FPLYJuz6_nc) |
+
 ## Class Of 99
 #### All,Australia,Rush Magazine,Chris Stroh,1999
-
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Sugar Ray | Fly | [Discogs](https://www.discogs.com/master/130855-Sugar-Ray-Floored) | [YouTube](https://www.youtube.com/watch?v=I4z_KhR4sOI) |
 | 2 | Damian King | Regurgitator | Everyday Formula | [Discogs](https://www.discogs.com/master/307599-Regurgitator-Unit) | [YouTube](https://www.youtube.com/watch?v=qP1inVfAs8w) |
-| 3 | Nozin' Aroun' | Lagwagon | Violins | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=OyywwSZqVGg) |
+| 3 | Nozing Around | Lagwagon | Violins | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=OyywwSZqVGg) |
 | 4 | Another Secret Spot | The Humpers | Steel-Toed Sneakers | [Discogs](https://www.discogs.com/master/425401-The-Humpers-Euphoria-Confusion-Anger-And-Remorse) | [YouTube](https://www.youtube.com/watch?v=YEmwZkmweMQ) |
-| 5 | Ben Player | Sugar Ray | RPM | [Discogs](https://www.discogs.com/master/130855-Sugar-Ray-Floored) | [YouTube](https://www.youtube.com/watch?v=xwEO2dVafv0&list=RDxwEO2dVafv0&start_radio=1) |
+| 5 | Ben Player | Sugar Ray | RPM | [Discogs](https://www.discogs.com/master/130855-Sugar-Ray-Floored) | [YouTube](https://www.youtube.com/watch?v=xwEO2dVafv0) |
 | 6 | The Tribe | ?? | ?? | ?? | ?? |
 | 7 | Joe & Ryan | Strung Out | Solitaire | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=5ftdbDNbS6g) |
 | 8 | ?? | Cat Stevens | Where Do The Children Play? | [Discogs](https://www.discogs.com/master/343717-Cat-Stevens-The-Very-Best-Of-Cat-Stevens) | [YouTube](https://www.youtube.com/watch?v=gXDjnPvnDyE) |
@@ -427,4 +450,48 @@
 | 10 | Bali Holiday | ?? | ?? | ?? | ?? |
 | 11 | Home Videos | ?? | ?? | ?? | ?? |
 | 12 | School's Out | Throwdown | Can't See Anything Wrong | [Discogs](https://www.discogs.com/release/8312068-Throwdown-SCHC-Old-Ones-And-Re-Runs) | ?? |
-| 13 | Credits | Beastie Boys | ?? | [Discogs](https://www.discogs.com/master/20173-Beastie-Boys-Ill-Communication) | [YouTube](https://www.youtube.com/watch?v=JhqyZeUlE8U) |
+| 13 | Credits | Beastie Boys | Sure Shot | [Discogs](https://www.discogs.com/master/20173-Beastie-Boys-Ill-Communication) | [YouTube](https://www.youtube.com/watch?v=JhqyZeUlE8U) |
+
+## Monkeys
+#### All,USA,Various,Jason Walcott,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Bad Religion | Part III | [Discogs](https://www.discogs.com/master/25526-Bad-Religion-How-Could-Hell-Be-Any-Worse) | [YouTube](https://www.youtube.com/watch?v=u7H99LCVAVE) |
+| 2 | Brian Wise | Mad Caddies | Mum's The Word | [Discogs](https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core) | [YouTube](https://www.youtube.com/watch?v=9AJ_O26xkFQ) |
+| 3 | Ross McBride | Ten Foot Pole | Hey Pete | [Discogs](https://www.discogs.com/master/262605-Ten-Foot-Pole-Unleashed) | [YouTube](https://www.youtube.com/watch?v=HpIpEuinGUA) |
+| 4 | Drop-knee | Ill Repute | Stuck | [Discogs](https://www.discogs.com/master/469071-Satanic-Surfers-The-Almighty-Trigger-Happy-Ill-Repute-Good-Riddance-Strung-Out-As-A-Matter-Of-Fact) | [YouTube](https://www.youtube.com/watch?v=hv3b2sdtixg) |
+| 5 | Jacob Reeves | The Bollweevils | Fence Sitter | [Discogs](https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight) | [YouTube](https://www.youtube.com/watch?v=GA9eCCALf2M) |
+| 6 | South Africans | Mad Caddies | Polyester Khakis | [Discogs](https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core) | [YouTube](https://www.youtube.com/watch?v=4CncRyUldvQ) |
+| 7 | ?? | The Bollweevils | 20 Something | [Discogs](https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight) | [YouTube](https://www.youtube.com/watch?v=gnc9rrChpbQ) |
+| 8 | Mike Stewart | Supernovice | Uno Mas | [Discogs](https://www.discogs.com/release/14750877-Supernovice-Well-Fed) | [YouTube](https://www.youtube.com/watch?v=dkoYYiW_GJU) |
+| 9 | Australians | Mad Caddies | Cup O' Tea | [Discogs](https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core) | [YouTube](https://www.youtube.com/watch?v=6cGNy5IYsNE) |
+| 10 | The Wedge | Limp | Clear Colors | [Discogs](https://www.discogs.com/master/334661-Limp-Pop-Disorderly) | [YouTube](https://www.youtube.com/watch?v=e2vfBWApDgM) |
+| 11 | Hawaiians | Ten Foot Pole | What You Want | [Discogs](https://www.discogs.com/master/262605-Ten-Foot-Pole-Unleashed) | [YouTube](https://www.youtube.com/watch?v=mPGzp9-uKTU) |
+| 12 | Phil Harnsberger | Bad Religion | Yesterday | [Discogs](https://www.discogs.com/master/177820-Bad-Religion-Back-To-The-Known) | [YouTube](https://www.youtube.com/watch?v=pvQbHUfvAG8) |
+| 13 | Tamega | Rythm Collision | Jumpstart | [Discogs](https://www.discogs.com/release/2469221-Rhythm-Collision-Collision-Course) | [YouTube](https://www.youtube.com/watch?v=qOrli7ZtZlc) |
+| 14 | Mexico | Mealticket | Heavy Heart | [Discogs](https://www.discogs.com/master/2178085-Mealticket-13-Apologies) | [YouTube](https://www.youtube.com/watch?v=Wa8cmBArOc8) |
+| 15 | ?? | Mad Caddies | L.G.'s | [Discogs](https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core) | [YouTube](https://www.youtube.com/watch?v=vJq44y5kHuE) |
+| 16 | Hawaiians | Zoinks! | Pedestal | [Discogs](https://www.discogs.com/release/2118124-Zoinks-Stranger-Anxiety) | [YouTube](https://www.youtube.com/watch?v=BMKTlnkMzec) |
+| 17 | Chad Barba | Rythm Collision | Too Long | [Discogs](https://www.discogs.com/release/2469221-Rhythm-Collision-Collision-Course) | [YouTube](https://www.youtube.com/watch?v=S74Kkh32g2s) |
+| 18 | ?? | Mad Caddies | Crew Cut Chuck | [Discogs](https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core) | [YouTube](https://www.youtube.com/watch?v=TcCyDa0lDyE) |
+| 19 | Eric Eliason | The Feds | Hard To Find | [Discogs](https://www.discogs.com/master/248175-The-Feds-Chicago-Bureau) | [](https://www.youtube.com/watch?v=wLHLIczlFeQ) |
+| 20 | Jeff Hubbard | The Bollweevils | Last Laugh | [Discogs](https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight) | [YouTube](https://www.youtube.com/watch?v=5EplJbW8f5A) |
+| 21 | Spencer Skipper | The Feds | Heard It Said | [Discogs](https://www.discogs.com/master/248175-The-Feds-Chicago-Bureau) | [YouTube](https://www.youtube.com/watch?v=btOORkO09Wg) |
+| 22 | Credits | ?? | ?? | ?? | ?? |
+
+## Propaganda
+#### All,USA,Riders Of Tubes,Scott Aichner,1996
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Pridebowl | Impropriety | [Discogs](https://www.discogs.com/master/710119-Pridebowl-Drippings-Of-The-Past) | [YouTube](https://www.youtube.com/watch?v=2h4o9EvWD38) |
+| 2 | Propaganda | Strung Out | Firecracker | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=7ojj0bgSfp8) |
+| 3 | Cabo San Lucas | Lagwagon | Violins | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=OyywwSZqVGg) |
+| 4 | Hawaii | Strung Out | Solitaire | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=5ftdbDNbS6g) |
+| 5 | ?? | Passage 4 | Somehow | [Discogs](https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock) | [YouTube](https://www.youtube.com/watch?v=hHZ-0qSncYo) |
+| 6 | ?? | Lagwagon | Sick | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=UuHDz4bSwaI) |
+| 7 | Pipeline | Lagwagon | Riffle | [Discogs](https://www.discogs.com/master/39369-Lagwagon-Hoss) | [YouTube](https://www.youtube.com/watch?v=Tj3aFXtW-lE) |
+| 8 | California | Strung Out | Six Feet | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=vuRTm3SPTrU) |
+| 9 | Indonesia I | Turtlehead | Thought | [Discogs](https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men) | [YouTube](https://www.youtube.com/watch?v=7A2xIGO8ouQ) |
+| 10 | Indonesia II | Scarecrow | Dare To Speak | [Discogs](https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock) | [YouTube](https://www.youtube.com/watch?v=pYtRVTsTXPM) |
+| 11 | Indonesia III | Snuff | Nick Northern | [Discogs](https://www.discogs.com/master/42239-Snuff-Demmamussabebonk) | [YouTube](https://www.youtube.com/watch?v=aTtBUOYVKUc) |
+| 12 | Credits | Millencolin | Melancholy Protection | [Discogs](https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection) | [YouTube](https://www.youtube.com/watch?v=qnsngNI-EPo) |
