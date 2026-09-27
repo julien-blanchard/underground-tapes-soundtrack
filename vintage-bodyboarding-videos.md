@@ -54,7 +54,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | Opening | Spiderbait | Word I Said | [Discogs](https://www.discogs.com/master/506787-Spiderbait-ShaShaVaGlava) | [YouTube](https://www.youtube.com/watch?v=dIw6go6qouE) |
 | 2 | Didgeridoo | ?? | ?? | ?? | ?? |
-| 3 | Hot Waves Cool Babes | The Poppin' Mommas | Hot Waves, Cool Babes | [Discogs](https://www.discogs.com/release/2935343-Poppin-Mommas-Sheltered-Workshop) | Contact me |
+| 3 | Hot Waves Cool Babes | The Poppin' Mommas | Hot Waves Cool Babes | [Discogs](https://www.discogs.com/release/2935343-Poppin-Mommas-Sheltered-Workshop) | Contact me |
 | 4 | Tully & Banno | Front End Loader | Puppy Love | [Discogs](https://www.discogs.com/master/659125-Front-End-Loader-Front-End-Loader) | [YouTube](https://www.youtube.com/watch?v=JuhUrAiNUmQ) |
 | 5 | Drill | Jasperstone | Don't want you around | ?? | ?? |
 | 6 | Da Boys | Spiderbait | Ol' Man Sam | [Discogs](https://www.discogs.com/master/506787-Spiderbait-ShaShaVaGlava) | [YouTube](https://www.youtube.com/watch?v=S36WqyY17Qg) |
@@ -94,7 +94,7 @@
 | 6 | Australia | Headlifter | 3 45 Untitled | [Discogs](https://www.discogs.com/release/14583981-Headlifter-Non-Compos) | Contact me |
 | 7 | Australia part II | Bodyjar | 2 Many Times | [Discogs](https://www.discogs.com/master/384002-Bodyjar-Take-A-Look-Inside) | [YouTube](https://www.youtube.com/watch?v=EnpTNe0AuLA) |
 | 8 | Hawaii part II | Front End Loader | The BeJesus | [Discogs](https://www.discogs.com/master/785150-Front-End-Loader-Lets-Ride) | [YouTube](https://www.youtube.com/watch?v=OycpSBKNKkA) |
-| 9 | Ronk, Wiseguy and Benny | Wigwam | Keeper of the Cheese | ?? | ?? |
+| 9 | Ronk Wiseguy and Benny | Wigwam | Keeper of the Cheese | ?? | ?? |
 | 10 | Australia part III | Gilgamesh | Nothin' | [Discogs](https://www.discogs.com/release/9031800-Gilgamesh-Land-Of-The-Long-White-Shaft) | [Bandcamp](https://noiselevels.bandcamp.com/track/nothin) |
 | 11 | Everyone | Magic Dirt | Daddy | [Discogs](https://www.discogs.com/master/606146-Magic-Dirt-Magic-Dirt) | [YouTube](https://www.youtube.com/watch?v=RvoU2uML4nw) |
 | 12 | Credits | Brian Press | Nothing Else Matters | ?? | ?? |
@@ -247,7 +247,7 @@
 | 10 | Somewhere South | Trigger | Re-Decline | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | ?? |
 | 11 | Hawaii | Bodyjar | You've Taken Everything | [Discogs](https://www.discogs.com/release/3021957-Bodyjar-No-Touch-Red) | [YouTube](https://www.youtube.com/watch?v=fNnP0EwU19I) |
 | 12 | The Shark Island Challenge - Finals | Trigger | Still Water | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | ?? |
-| 13 | Eppo | Frenzal Rhomb | T.N.T | | [Discogs](https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute) | [YouTube](https://www.youtube.com/watch?v=4Ekad8Ksv4U) |
+| 13 | Eppo | Frenzal Rhomb | T.N.T | [Discogs](https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute) | [YouTube](https://www.youtube.com/watch?v=4Ekad8Ksv4U) |
 | 14 | Credits | ?? | ?? | ?? | ?? |
 
 ## R.O.T. 1
