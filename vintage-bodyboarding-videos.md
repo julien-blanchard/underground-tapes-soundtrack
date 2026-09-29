@@ -12,7 +12,7 @@
 | 8 | Mike Stewart | Presto | Circus Hell | [Discogs](https://www.discogs.com/release/13086267-Various-Streetwise-An-Urban-Culture-Compilation-2) | [YouTube](https://www.youtube.com/watch?v=Gx2g6OcGZ7g) |
 | 9 | Dave Ballard | This Thing | ?? | ?? | ?? |
 | 10 | Blackrock | Presto | Doodletwang | ?? | [YouTube](https://www.youtube.com/watch?v=X-1ZIA3AYhg) |
-| 11 | Eppo | Cartoon Horrors | Something to Say | ?? | ?? |
+| 11 | Eppo | Cartoon Horrors | Something to Say | ?? | Contact me |
 
 ## Underground Tapes III - Reef Madness
 #### All,Australia,Underground Tapes,Chris Stroh,1993
@@ -213,7 +213,7 @@
 | 9 | Amazing Rubber Men | Glass Onion | Strange Ways | [Discogs](https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep) | [YouTube](https://www.youtube.com/watch?v=ljXFu5IyofU) |
 | 10 | ?? | This Thing | Clenched Hand Explosion | [Discogs](https://www.discogs.com/release/27405990-This-Thing-Upon-Us) | Contact me |
 | 11 | Peer Pressure | Jasperstone | I don't pay | ?? | ?? |
-| 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | ?? |
+| 12 | Credits | Pryme Moover | Happy Ending | [Discogs](https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1) | Contact me |
 
 ## Inner Views
 #### All,Australia,Various,Chris Stroh,1998
