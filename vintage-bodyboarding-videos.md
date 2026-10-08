@@ -206,9 +206,9 @@
 | 2 | Opening | Ripe | Something Fierce | [Discogs](https://www.discogs.com/master/284605-Ripe-The-Plastic-Hassle) | [YouTube](https://www.youtube.com/watch?v=BWwpSPSA3yc) |
 | 3 | Eppo | Pryme Moover | Can't wait | ?? | ?? |
 | 4 | Hawaii | Bone Machine | Fallen Idol | [Discogs](https://www.discogs.com/artist/7344266-Bone-Machine-8) | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
-| 5 | Texas | ?? | ?? | ?? | ?? |
+| 5 | Texas | Mescaline | ?? | ?? | ?? |
 | 6 | Circus Oz | Bone Machine | Raglan Street | [Discogs](https://www.discogs.com/artist/7344266-Bone-Machine-8) | [YouTube](https://www.youtube.com/watch?v=OdTSAd0nC9E) |
-| 7 | Heavy Water | Universal Workshop | What's so Funny | ?? | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
+| 7 | Heavy Water | Universal Workshop | What's so Funny | [Discogs](https://www.discogs.com/release/10905661-Various-Filth-Compilation) | [YouTube](https://www.youtube.com/watch?v=n3SD8pDxqls) |
 | 8 | Bali | Pryme Moover | Get on with it | ?? | ?? |
 | 9 | Amazing Rubber Men | Glass Onion | Strange Ways | [Discogs](https://www.discogs.com/release/32801841-Glass-Onion-Feed-The-Creep) | [YouTube](https://www.youtube.com/watch?v=ljXFu5IyofU) |
 | 10 | ?? | This Thing | Clenched Hand Explosion | [Discogs](https://www.discogs.com/release/27405990-This-Thing-Upon-Us) | Contact me |
@@ -249,6 +249,26 @@
 | 12 | The Shark Island Challenge - Finals | Trigger | Still Water | [Discogs](https://www.discogs.com/release/14164030-Trigger-Still-Water) | ?? |
 | 13 | Eppo | Frenzal Rhomb | T.N.T | [Discogs](https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute) | [YouTube](https://www.youtube.com/watch?v=4Ekad8Ksv4U) |
 | 14 | Credits | ?? | ?? | ?? | ?? |
+
+## Contortion
+#### All,Australia,Various,Bill McCausland,1994
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | You Am I | Coprolalia | [Discogs](https://www.discogs.com/master/237888-You-Am-I-Sound-As-Ever) | [YouTube](https://www.youtube.com/watch?v=jQnsz1vVxz0) |
+| 2 | ?? | Budd | Egg | [Discogs](https://www.discogs.com/master/885704-Budd-Yakfat) | [YouTube](https://www.youtube.com/watch?v=7L0LCFT01fA) |
+| 3 | Gorilla Grip - Ad | ?? | ?? | ?? | ?? |
+| 4 | Full Bore - Ad | ?? | ?? | ?? | ?? |
+| 5 | ?? | Itch-E & Scratch-E | Interference | [Discogs](https://www.discogs.com/master/1428028-Itch-E-Scratch-E-Itch-E-Kitch-E-Koo) | [YouTube](https://www.youtube.com/watch?v=r9FJJnYhmlE) |
+| 6 | Ocean & Earth - Ad | ?? | ?? | ?? | ?? |
+| 7 | Sponge-Rez - Ad | ?? | ?? | ?? | ?? |
+| 8 | Wipeouts | Shotgun Messiah | Side FX | [Discogs](https://www.discogs.com/master/126598-Shotgun-Messiah-Violent-New-Breed) | [YouTube](https://www.youtube.com/watch?v=97AyqnPBhwM) |
+| 9 | Australian Bodyboarder - Ad | ?? | ?? | ?? | ?? |
+| 10 | Manta ad | ?? | ?? | ?? | ?? |
+| 11 | Kuta Lines - Ad | ?? | ?? | ?? | ?? |
+| 12 | Surf Waves Not Drains | Caligula | Make Me Happy | [Discogs](https://www.discogs.com/master/1578086-Caligula-Rubenesque) | [YouTube](https://www.youtube.com/watch?v=SxN5HbvRk9o) |
+| 13 | ?? | Mantissa | Mary Mary | [Discogs](https://www.discogs.com/master/1081664-Mantissa-Mossy-God) | [YouTube](https://www.youtube.com/watch?v=p7kONbAPzEs) |
+| 14 | ?? | Shotgun Messiah | Enemy In Me | [Discogs](https://www.discogs.com/master/126598-Shotgun-Messiah-Violent-New-Breed) | [YouTube](https://www.youtube.com/watch?v=EaEH6tEB7Qk) |
+| 15 | Credits | You Am I | Berlin Chair | [Discogs](https://www.discogs.com/master/237888-You-Am-I-Sound-As-Ever) | [YouTube](https://www.youtube.com/watch?v=Nwsyr5gAEuM) |
 
 ## R.O.T. 1
 #### All,USA,Riders Of Tubes,Sean Manning,1993
@@ -303,6 +323,24 @@
 | 12 | Extras part I | ?? | ?? | ?? | ?? |
 | 13 | Extras part II | The Jackson 5 | ABC | [Discogs](https://www.discogs.com/master/268022-Jackson-5-The-Ultimate-Collection) | [YouTube](https://www.youtube.com/watch?v=ISqzbbZVIiU) |
 
+## R.O.T. 4
+#### All,USA,Riders Of Tubes,Sean Manning,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Intro | Pridebowl | Hope | [Discogs](https://www.discogs.com/master/682319-Pridebowl-Yesterdays-End) | [YouTube](https://www.youtube.com/watch?v=n50PRUP3JS0) |
+| 2 | Opening | ?? | ?? | ?? | ?? |
+| 3 | Big Wedge | Assorted Jelly Beans | Braindead | [Discogs](https://www.discogs.com/master/237121-Assorted-Jelly-Beans-Assorted-Jelly-Beans) | [YouTube](https://www.youtube.com/watch?v=ZsxjOp6RXO0) |
+| 4 | Brian Wise | Nofx | Drugs Are Good | [Discogs](https://www.discogs.com/master/849918-NOFX-45-Or-46-Songs-That-Werent-Good-Enough-To-Go-On-Our-Other-Records) | [YouTube](https://www.youtube.com/watch?v=FqzyBW1u7OA) |
+| 5 | Phil Harnsberger & Jacob Reeves | Millencolin | In A Room | [Discogs](https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection) | [YouTube](https://www.youtube.com/watch?v=7wdA9Wxl5gw) |
+| 6 | Reunion Island South Pacific | Homegrown | Hidden Track | [Discogs](https://www.discogs.com/master/313896-Home-Grown-Thats-Business) | ?? |
+| 7 | Fred Booth | Less Than Jake | Krazy Glue | [Discogs](https://www.discogs.com/master/237762-Less-Than-Jake-Losing-Streak) | [YouTube](https://www.youtube.com/watch?v=YZrCRy2pnDo) |
+| 8 | ?? | 311 | Gap | [Discogs](https://www.discogs.com/release/34525279-311-311) | [YouTube](https://www.youtube.com/watch?v=cbmxKsW0jZg) |
+| 9 | ?? | Reset | Concern | [Discogs](https://www.discogs.com/master/798977-Reset-No-Worries) | [YouTube](https://www.youtube.com/watch?v=jSaOrGqemmA) |
+| 10 | The Wedge | Tilt | Libel | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=xCbwClU9vS0) |
+| 11 | Paul Roach & Tim Ross | Napalm Death | Greed Killing | [Discogs](https://www.discogs.com/release/1986571-Napalm-Death-Diatribes) | [YouTube](https://www.youtube.com/watch?v=rLQvYoeqhfo) |
+| 12 | Pipeline | ?? | ?? | ?? | ?? |
+| 13 | Credits | The Queers | From Your Boy | [Discogs](https://www.discogs.com/master/50105-The-Queers-Move-Back-Home) | [YouTube](https://www.youtube.com/watch?v=qZkbOv-K0Fc) |
+
 ## R.O.T. 808
 #### All,USA,Riders Of Tubes,Chad K. Uyeno,1992
 | Track | Section | Band | Title | Info | Listen |
@@ -323,6 +361,104 @@
 | 14 | Extras I | Pennywise | Peaceful Day | [Discogs](https://www.discogs.com/master/44000-Pennywise-About-Time) | [YouTube](https://www.youtube.com/watch?v=WbUdioBdZ_Y) |
 | 15 | Extras II | Satanic Surfers | Equal Rights | [Discogs](https://www.discogs.com/master/1196164-Ten-Foot-Pole-Satanic-Surfers-Ten-Foot-Pole-Satanic-Surfers-Split) | [YouTube](https://www.youtube.com/watch?v=9EKujZwp5uk) |
 | 16 | Extras II | Unit 101 | No Ka Oi | [Discogs](https://www.discogs.com/master/3922495-Unit-101-Unit-101) | [YouTube](https://www.youtube.com/watch?v=xqd3dAqIjOw) |
+
+## R.O.T. Hoff Pro 1996
+#### All,USA,Riders Of Tubes,Sean Manning,1996
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Intro | ?? | ?? | ?? | ?? |
+| 2 | Opening | Pridebowl | Hate-Wrinkled | [Discogs](https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song) | [YouTube](https://www.youtube.com/watch?v=zcPhYHsnCHc) |
+| 3 | ?? | One Chord Wonders | Summer Is The Time To Be | [Discogs](https://www.discogs.com/release/1445740-Various-Epitone-Various-Swe-Skatecore) | [YouTube](https://www.youtube.com/watch?v=B7N57GMsamc) |
+| 4 | ?? | Satanic Surfers | Waves of Blood | [Discogs](https://www.discogs.com/release/1445740-Various-Epitone-Various-Swe-Skatecore) | [YouTube](https://www.youtube.com/watch?v=wWyQzLS5tQU) |
+| 5 | ?? | Me First And The Gimme Gimmes | Country Roads | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=066SFOZhaXg) |
+| 6 | ?? | Nofx | Vincent | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=t-7QckETifk) |
+| 7 | ?? | Turtlehead | Go | [Discogs](https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men) | [YouTube](https://www.youtube.com/watch?v=sd_tR9Q1Ee8) |
+| 8 | Prelims | Pridebowl | The Soft Song | [Discogs](https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song) | [YouTube](https://www.youtube.com/watch?v=zpz97JHdRpA) |
+| 9 | Main Event | Snuff | Nick Northern | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=Bq5atQXbsvk) |
+| 10 | Round 2 | Pridebowl | Remnants | [Discogs](https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song) | [YouTube](https://www.youtube.com/watch?v=5G-jyqwTCXE) |
+| 11 | Round 3 | Lagwagon | Sleep | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=IZcqyRo4OgU) |
+| 12 | Round 4 | Slobax | Days Like This | [Discogs](https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock) | [YouTube](https://www.youtube.com/watch?v=s2E87gt5x5Y) |
+| 13 | Quarter Finals | Soul Scream | Beat Around The Bush | [Discogs](https://www.discogs.com/release/26848463-Soul-Scream-Mister-Sunshine) | [YouTube](https://www.youtube.com/watch?v=FEj6x6vYzAo) |
+| 14 | ?? | Frenzal Rhomb | Run | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=3l0hqux8rms) |
+| 15 | Semi Finals | Tilt | Libel | [Discogs](https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest) | [YouTube](https://www.youtube.com/watch?v=xCbwClU9vS0) |
+| 16 | Final | Strung Out | Wrong Side Of The Tracks | [Discogs](https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues) | [YouTube](https://www.youtube.com/watch?v=V15TUYlXprM) |
+| 17 | Credits | Wizo | Tod Im Freibad | [Discogs](https://www.discogs.com/master/61615-WIZO-UUAARRGH) | [YouTube](https://www.youtube.com/watch?v=ffXE9HOTQiY) |
+
+## The Ultimate Wave Riding Vehicle
+#### All,USA,Bodyboarders Video Magazine,Tom Boyle,1994
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | The Offspring | Come Out And Play | [Discogs](https://www.discogs.com/master/77217-Offspring-Smash) | [YouTube](https://www.youtube.com/watch?v=GHUql3OC_uU) |
+| 2 | Tumbleland | The Offspring | Gotta Get Away | [Discogs](https://www.discogs.com/master/77217-Offspring-Smash) | [YouTube](https://www.youtube.com/watch?v=vSEUJHZDppo) |
+| 3 | Hurricane Emilia | The Offspring | Nitro | [Discogs](https://www.discogs.com/master/77217-Offspring-Smash) | [YouTube](https://www.youtube.com/watch?v=U4EpeupWr-c) |
+| 4 | Ala Moana Bowls / Kainoa McGee | Sugartooth | Barrel | [Discogs](https://www.discogs.com/release/9530832-Sugartooth-Sugartooth) | [YouTube](https://www.youtube.com/watch?v=9Y3hE82IzuE) |
+| 5 | Women Wave Warriors | Sonic Youth | Bull In The Heather | [Discogs](https://www.discogs.com/release/370547-Sonic-Youth-Experimental-Jet-Set-Trash-And-No-Star) | [YouTube](https://www.youtube.com/watch?v=8JGBNkLM9_8) |
+| 6 | Half Point | Down By Law | Surf Punk | [Discogs](https://www.discogs.com/release/620136-Down-By-Law-Down-By-Law) | [YouTube](https://www.youtube.com/watch?v=ewWFGxpBDgo) |
+| 7 | Ben Severson | Sugartooth | Tuesday Morning | [Discogs](https://www.discogs.com/release/9530832-Sugartooth-Sugartooth) | [YouTube](https://www.youtube.com/watch?v=Wvt7pB_qyqE) |
+| 8 | Eppo Visits The Flowrider | The Offspring | Self-Esteem | [Discogs](https://www.discogs.com/master/77217-Offspring-Smash) | [YouTube](https://www.youtube.com/watch?v=EtNZnhxWLHo) |
+| 9 | Chris Won | Excel | The Stranger | [Discogs](https://www.discogs.com/master/99959-Excel-The-Jokes-On-You) | [YouTube](https://www.youtube.com/watch?v=cmSy0dDIfCI) |
+| 10 | Mike Stewart | Sugartooth | Leave My Soul To Rest | [Discogs](https://www.discogs.com/release/9530832-Sugartooth-Sugartooth) | [YouTube](https://www.youtube.com/watch?v=MMlsxWWEo7A) |
+| 11 | Aka Lyman | The Offspring | Dirty Magic | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=_5coMysALYg) |
+| 12 | Sandy Beach | The Offspring | Something To Believe In | [Discogs](https://www.discogs.com/master/77217-Offspring-Smash) | [YouTube](https://www.youtube.com/watch?v=NckxL3ShTCY) |
+| 13 | Alex De Pontes / Tamega | Sugartooth | Sold My Fortune | [Discogs](https://www.discogs.com/release/9530832-Sugartooth-Sugartooth) | [YouTube](https://www.youtube.com/watch?v=9se4X3vHATo) |
+| 14 | Coming Next Edition | Tourniquet | Devastating Wind | [Discogs](https://www.discogs.com/master/432244-Tourniquet-Psycho-Surgery) | [YouTube](https://www.youtube.com/watch?v=egbhTXgqOzE) |
+
+## Violent Grace
+#### All,USA,Bodyboarders Video Magazine,Tom Boyle,1995
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | Tourniquet | Devastating Wind | [Discogs](https://www.discogs.com/master/432244-Tourniquet-Psycho-Surgery) | [YouTube](https://www.youtube.com/watch?v=egbhTXgqOzE) |
+| 2 | The Brat Pack | Nofx | My Heart Is Yearning | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=C7u5dc10Suc) |
+| 3 | Fred Booth | Unit 101 | I'm So Beautiful | [Discogs](https://www.discogs.com/artist/3331620-Unit-101) | ?? |
+| 4 | Mexico | The Offspring | Get It Right | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=Poz4BPdBH2Y) |
+| 5 | Cavin Yap | Dag Nasty | Roger | [Discogs](https://www.discogs.com/master/16971-Dag-Nasty-Four-On-The-Floor) | [YouTube](https://www.youtube.com/watch?v=jMbZNOgAsoE) |
+| 6 | Mike Stewart | Rich Kids On LSD | Scab On My Brain | [Discogs](https://www.discogs.com/master/16728-Rich-Kids-On-LSD-Rock-N-Roll-Nightmare) | [YouTube](https://www.youtube.com/watch?v=VttCMirbzlE) |
+| 7 | Local Boyz | Optimum Fury | ?? | [Discogs](https://www.discogs.com/artist/7529423-Optimum-Fury) | ?? |
+| 8 | Western Australia part I | Sons Of Elvis | These Days | [Discogs](https://www.discogs.com/master/369517-Sons-Of-Elvis-Glodean) | [YouTube](https://www.youtube.com/watch?v=VhLn3X6m4yU) |
+| 9 | Western Australia part II | The Offspring | Kick Him When He's Down | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=bGrArOTPbAg) |
+| 10 | The Box | Optimum Fury | ?? | [Discogs](https://www.discogs.com/artist/7529423-Optimum-Fury) | ?? |
+| 11 | Team North Shore | Down By Law | Break The Walls | [Discogs](https://www.discogs.com/master/130204-Down-By-Law-Blue) | [YouTube](https://www.youtube.com/watch?v=MyY3Hqemqtk) |
+| 12 | The Aussies | The Offspring | Hypodermic | [Discogs](https://www.discogs.com/master/77211-The-Offspring-Ignition) | [YouTube](https://www.youtube.com/watch?v=2PpxJb1VgmM) |
+| 13 | Leading The Way For California | Rich Kids On LSD | Insane | [Discogs](https://www.discogs.com/master/220168-RKL-Reactivate) | [YouTube](https://www.youtube.com/watch?v=5CJZUJ83vxY) |
+| 14 | Team Psycho | Down By Law | Rain | [Discogs](https://www.discogs.com/master/130204-Down-By-Law-Blue) | [YouTube](https://www.youtube.com/watch?v=Dfv0GMnMZzM) |
+| 15 | Credits | Sons Of Elvis | The Creeper | [Discogs](https://www.discogs.com/master/369517-Sons-Of-Elvis-Glodean) | [YouTube](https://www.youtube.com/watch?v=IMKjf9buLO0) |
+
+## Core
+#### All,USA,Bodyboarders Video Magazine,Tom Boyle,1996
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Opening | SNFU | My Mold Collection | [Discogs](https://www.discogs.com/master/80620-SNFU-The-One-Voted-Most-Likely-To-Succeed) | [YouTube](https://www.youtube.com/watch?v=imaZSe6pPuE) |
+| 2 | Shack Island | Rancid | Junkie Man | [Discogs](https://www.discogs.com/release/396440-Rancid-And-Out-Come-The-Wolves) | [YouTube](https://www.youtube.com/watch?v=gXXT2KvhwZs) |
+| 3 | Lanson Ronquillio | Ten Foot Pole | Racer X | [Discogs](https://www.discogs.com/master/700272-Ten-Foot-Pole-Swill) | [YouTube](https://www.youtube.com/watch?v=dm1Z9Td4tqo) |
+| 4 | Chris Burkhart | Dread Ashanti | Mok's Song | [Discogs](https://www.discogs.com/release/19299340-Dread-Ashanti-Rising) | [YouTube](https://www.youtube.com/watch?v=hJ117IdEROk) |
+| 5 | Paul Roach | DFL | Good Cop Bad Cop | [Discogs](https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be) | [YouTube](https://www.youtube.com/watch?v=UofAYCFve9c) |
+| 6 | Guilherme Tamega | Pennywise | Searching | [Discogs](https://www.discogs.com/master/44000-Pennywise-About-Time) | [YouTube](https://www.youtube.com/watch?v=scU42jRlIqU) |
+| 7 | Brown Water Big Bombs | Dread Ashanti | Voices | [Discogs](https://www.discogs.com/release/19299340-Dread-Ashanti-Rising) | [YouTube](https://www.youtube.com/watch?v=Gh8s5KhTJhA) |
+| 8 | Kainoa McGee | Bonecrusher | American Psycho | [Discogs](https://www.discogs.com/master/291517-Bonecrusher-World-Of-Pain) | [YouTube](https://www.youtube.com/watch?v=0B3EAGZGXRQ) |
+| 9 | Fly's | Pennywise | No Reason Why | [Discogs](https://www.discogs.com/release/380664-Pennywise-Pennywise) | [YouTube](https://www.youtube.com/watch?v=xCrwzUjaJfE) |
+| 10 | Outer Island Locals | Dread Ashanti | 00 Dread | [Discogs](https://www.discogs.com/release/19299340-Dread-Ashanti-Rising) | [ReverbNation](https://legacy.reverbnation.com/dreadashanti/song/6834712) |
+| 11 | Durban Home Movies | DFL | S.B.C.G. | [Discogs](https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be) | [YouTube](https://www.youtube.com/watch?v=8YpJlKTaXNY) |
+| 12 | Gordon Cockwell & Billy Thiel | DFL | Home Is Where The Heart Is | [Discogs](https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be) | [YouTube](https://www.youtube.com/watch?v=h5bXWm1zI4g) |
+| 13 | Hell Aussies | Voodoo Glow Skulls | Trouble Walking | [Discogs](https://www.discogs.com/master/39315-Voodoo-Glow-Skulls-Firme) | [YouTube](https://www.youtube.com/watch?v=aKi0DwuT-Hs) |
+| 14 | Credits | The Vandals | Lady Killer | [Discogs](https://www.discogs.com/master/297512-The-Vandals-Sweatin-To-The-Oldies-The-Vandals-Live) | [YouTube](https://www.youtube.com/watch?v=IXKy9ioffjk) |
+| 15 | West Coast Homeboys | Rancid | Lock Step & Gone | [Discogs](https://www.discogs.com/release/396440-Rancid-And-Out-Come-The-Wolves) | [YouTube](https://www.youtube.com/watch?v=O-vzicKAUTY) |
+
+## Cereal Killer
+#### All,USA,Bodyboarders Video Magazine,Tom Boyle,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Robbie Crawford King Of Hop | Tourniquet | K517 | [Discogs](https://www.discogs.com/master/931055-Tourniquet-Vanishing-Lessons) | [YouTube](https://www.youtube.com/watch?v=TqW9QEeLuiU) |
+| 2 | Opening | Tourniquet | Vanishing Lessons | [Discogs](https://www.discogs.com/master/931055-Tourniquet-Vanishing-Lessons) | [YouTube](https://www.youtube.com/watch?v=BcfKCClwigs) |
+| 3 | Brian Wise | Gas Huffer | Sixty Three Hours | [Discogs](https://www.discogs.com/master/70674-Gas-Huffer-The-Inhuman-Ordeal-Of-Special-Agent-Gas-Huffer) | [YouTube](https://www.youtube.com/watch?v=Izz6Bni1KLA) |
+| 4 | Seamas Mercado | Noise Box | Monkey Ass | [Discogs](https://www.discogs.com/master/29981-Noise-Box-Monkey-Ass) | [YouTube](https://www.youtube.com/watch?v=FgZLiLKjYd0) |
+| 5 | Crispin Hughes | Directions In Groove | Two-Way Dreamtime | [Discogs](https://www.discogs.com/master/645639-Directions-In-Groove-Dig-Deeper) | [YouTube](https://www.youtube.com/watch?v=rbbP1o8crO4) |
+| 6 | ?? | Sense Field | Overstand | [Discogs](https://www.discogs.com/master/135395-Sense-Field-Building) | [YouTube](https://www.youtube.com/watch?v=cxFcgLbDsVM) |
+| 7 | Chris Taloa Won | Primus | Tommy The Cat | [Discogs](https://www.discogs.com/master/17912-Primus-Sailing-The-Seas-Of-Cheese) | [YouTube](https://www.youtube.com/watch?v=r4OhIU-PmB8) |
+| 8 | Ben Severson | White Zombie | Real Solution #9 | [Discogs](https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri) | [YouTube](https://www.youtube.com/watch?v=Cvlpktjsq0A) |
+| 9 | Spencer Skipper | Steve Stevens | The Savage | [Discogs](https://www.discogs.com/master/455479-Various-Twang-A-Tribute-To-Hank-Marvin-The-Shadows) | [YouTube](https://www.youtube.com/watch?v=wG6jf5LDWN0) |
+| 10 | ?? | Marilyn Manson | Lunch Box | [Discogs](https://www.discogs.com/master/17936-Marilyn-Manson-Portrait-Of-An-American-Family) | [YouTube](https://www.youtube.com/watch?v=PRFJoUBP54o) |
+| 11 | French Polynesia | Razed In Black | Power | [Discogs](https://www.discogs.com/master/29797-Razed-In-Black-Shrieks-Laments-And-Anguished-Cries) | [YouTube](https://www.youtube.com/watch?v=grOTiQ5VUqc) |
+| 12 | Credits & Kyle Maligro | Pspazz | Feel The Rhythm | [Discogs](https://www.discogs.com/master/1714399-Pspazz-Missile-Toe) | [YouTube](https://www.youtube.com/watch?v=pqlBswg4Nqs) |
 
 ## Blast-Off Phase 3
 #### All,Australia,Various,Derek Hoffmann,1994
@@ -434,7 +570,7 @@
 | 19 | Mike Stewart | Nofx | Dying Degree | [Discogs](https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic) | [YouTube](https://www.youtube.com/watch?v=zIe4c-99slE) |
 | 20 | Credits | No Use For A Name | Medley | [Discogs](https://www.discogs.com/master/44049-No-Use-For-A-Name-Leche-Con-Carne) | [YouTube](https://www.youtube.com/watch?v=FPLYJuz6_nc) |
 
-## Class Of 99
+## Rush: Class Of 99
 #### All,Australia,Rush Magazine,Chris Stroh,1999
 | Track | Section | Band | Title | Info | Listen |
 | --- | --- | --- | --- | --- | --- |
@@ -495,3 +631,18 @@
 | 10 | Indonesia II | Scarecrow | Dare To Speak | [Discogs](https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock) | [YouTube](https://www.youtube.com/watch?v=pYtRVTsTXPM) |
 | 11 | Indonesia III | Snuff | Nick Northern | [Discogs](https://www.discogs.com/master/42239-Snuff-Demmamussabebonk) | [YouTube](https://www.youtube.com/watch?v=aTtBUOYVKUc) |
 | 12 | Credits | Millencolin | Melancholy Protection | [Discogs](https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection) | [YouTube](https://www.youtube.com/watch?v=qnsngNI-EPo) |
+
+## The Contest
+#### All,Australia,Various,Tim Bonython,1997
+| Track | Section | Band | Title | Info | Listen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Australian Bodyboarder Magazine - Ad | Frenzal Rhomb | Genius | [Discogs](https://www.discogs.com/master/1851777-Frenzal-Rhomb-Coughing-Up-A-Storm) | [YouTube](https://www.youtube.com/watch?v=BXzBo5fraoI) |
+| 2 | Opening | The Mark Of Cain | Interloper - Who Made Who Mix | [Discogs](https://www.discogs.com/master/1588014-The-Mark-Of-Cain-Rock-And-Roll) | [YouTube](https://www.youtube.com/watch?v=v69xPZfwjfg) |
+| 3 | Day 1 | White Zombie | El Phantasmo And The Chicken-Run Blast-O-Rama | [Discogs](https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri) | [YouTube](https://www.youtube.com/watch?v=N2ckU9p1pSo) |
+| 4 | ?? | Rage Against The Machine | Bulls On Parade | [Discogs](https://www.discogs.com/master/7951-Rage-Against-The-Machine-Evil-Empire) | [YouTube](https://www.youtube.com/watch?v=3L4YrGaR8E4) |
+| 5 | ?? | Prong | Unfortunately | [Discogs](https://www.discogs.com/master/37580-Prong-Rude-Awakening) | [YouTube](https://www.youtube.com/watch?v=MuEwkbiL9hc) |
+| 6 | ?? | Helmet | Like I Care | [Discogs](https://www.discogs.com/master/52357-Helmet-Aftertaste) | [YouTube](https://www.youtube.com/watch?v=Vr6p0K9LHCA) |
+| 7 | ?? | Prong | Controller | [Discogs](https://www.discogs.com/master/37580-Prong-Rude-Awakening) | [YouTube](https://www.youtube.com/watch?v=7Fc3GC30b64) |
+| 8 | ?? | Silverchair | Learn To Hate | [Discogs](https://www.discogs.com/master/67087-Silverchair-Freak-Show) | [YouTube](https://www.youtube.com/watch?v=Vm4FBsHQJt0) |
+| 9 | ?? | White Zombie | Electric Head Pt. 2 | [Discogs](https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri) | [YouTube](https://www.youtube.com/watch?v=WdYvr2QpC3E) |
+| 10 | Credits | Jay Reale | ?? | ?? | ?? |
